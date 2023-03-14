@@ -16,9 +16,9 @@ export default function Blogs() {
       <h2>Our Blogs</h2>
 
       <div className={styles.allBlogs}>
-        {ALL_BLOGS.map((blog) => {
+        {ALL_BLOGS.map((blog, index) => {
           return (
-            <Blog title={blog.title} author={blog.author} image={blog.image} />
+            <Blog title={blog.title} author={blog.author} image={blog.image} key={index}/>
           );
         })}
       </div>
