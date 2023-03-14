@@ -8,7 +8,7 @@ export const SafeGuardingWeb3 = () => {
         <Image src="/illustrations/atom.svg" width="500" height="500" />
         <div className={styles.text}>
           <h2>
-            Safeguarding Web3's Public Good Funding from Sybil Attacks and
+            Safeguarding Web3s Public Good Funding from Sybil Attacks and
             Centralization
           </h2>
           <p>
