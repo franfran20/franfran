@@ -16,8 +16,8 @@ export default function Members() {
       <h2>Core Members</h2>
 
       <div className={styles.coreMembers}>
-        {CORE_MEMBERS.map((member) => {
-          return <Member name={member.name} bio={member.bio} />;
+        {CORE_MEMBERS.map((member, index) => {
+          return <Member name={member.name} bio={member.bio} key={index}/>;
         })}
       </div>
     </div>
