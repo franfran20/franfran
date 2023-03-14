@@ -1,6 +1,7 @@
 import { CORE_MEMBERS } from "@/utils/utils";
 import { Member } from "../components/members/Member";
 import styles from "../styles/Members.module.css";
+import Head from "next/head";
 
 export default function Members() {
   return (
