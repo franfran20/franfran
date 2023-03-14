@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="581px" height="566px" viewBox="0 0 581 566" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <path d="M211.933 274.892C211.933 246.853 238.728 224.122 271.782 224.122C304.835 224.122 331.631 246.853 331.631 274.892C331.631 302.932 304.835 325.663 271.782 325.663C238.728 325.663 211.933 302.932 211.933 274.892Z" id="path_1" />
+    <path d="M214.005 475.229C214.005 447.19 240.801 424.459 273.854 424.459C306.908 424.459 333.703 447.19 333.703 475.229C333.703 503.269 306.908 526 273.854 526C240.801 526 214.005 503.269 214.005 475.229Z" id="path_2" />
+    <path d="M186.024 50.7704C186.024 22.7307 212.82 0 245.873 0C278.927 0 305.722 22.7307 305.722 50.7704C305.722 78.8102 278.927 101.541 245.873 101.541C212.82 101.541 186.024 78.8102 186.024 50.7704Z" id="path_3" />
+    <path d="M379.204 132.713C377.542 104.712 402.953 80.7742 435.961 79.2473C468.969 77.7203 497.076 99.1822 498.738 127.183C500.401 155.185 474.99 179.122 441.982 180.649C408.973 182.176 380.867 160.714 379.204 132.713Z" id="path_4" />
+    <path d="M11.9175 194.392C11.9175 166.352 38.7128 143.621 71.7665 143.621C104.82 143.621 131.616 166.352 131.616 194.392C131.616 222.431 104.82 245.162 71.7665 245.162C38.7128 245.162 11.9175 222.431 11.9175 194.392Z" id="path_5" />
+    <path d="M399.931 344.942C398.268 316.941 423.679 293.004 456.688 291.477C489.696 289.95 517.802 311.412 519.465 339.413C521.127 367.414 495.716 391.352 462.708 392.878C429.7 394.405 401.593 372.944 399.931 344.942Z" id="path_6" />
+    <path d="M0 390.841C0 362.801 26.7953 340.071 59.849 340.071C92.9027 340.071 119.698 362.801 119.698 390.841C119.698 418.881 92.9027 441.612 59.849 441.612C26.7953 441.612 0 418.881 0 390.841Z" id="path_7" />
+    <rect width="581" height="566" id="artboard_1" />
+    <clipPath id="clip_1">
+      <use xlink:href="#artboard_1" clip-rule="evenodd" />
+    </clipPath>
+    <clipPath id="clip_2">
+      <use xlink:href="#path_1" />
+    </clipPath>
+    <clipPath id="clip_3">
+      <use xlink:href="#path_2" />
+    </clipPath>
+    <clipPath id="clip_4">
+      <use xlink:href="#path_3" />
+    </clipPath>
+    <clipPath id="clip_5">
+      <use xlink:href="#path_4" />
+    </clipPath>
+    <clipPath id="clip_6">
+      <use xlink:href="#path_5" />
+    </clipPath>
+    <clipPath id="clip_7">
+      <use xlink:href="#path_6" />
+    </clipPath>
+    <clipPath id="clip_8">
+      <use xlink:href="#path_7" />
+    </clipPath>
+  </defs>
+  <g id="Artboard" clip-path="url(#clip_1)">
+    <use xlink:href="#artboard_1" stroke="none" fill="#FFFFFF" fill-opacity="0" />
+    <g id="Group" transform="translate(27 19)" artboard="33f7134a-5fc1-4408-81e1-cbf5215458cd">
+      <g id="Oval">
+        <use stroke="none" fill="#072A23" xlink:href="#path_1" fill-rule="evenodd" />
+        <g clip-path="url(#clip_2)">
+          <use xlink:href="#path_1" fill="none" stroke="#072A23" stroke-width="112" />
+        </g>
+      </g>
+      <g id="Oval-Copy-6">
+        <use stroke="none" fill="#072A23" xlink:href="#path_2" fill-rule="evenodd" />
+        <g clip-path="url(#clip_3)">
+          <use xlink:href="#path_2" fill="none" stroke="#072A23" stroke-width="112" />
+        </g>
+      </g>
+      <g id="Oval-Copy-2">
+        <use stroke="none" fill="#072A23" xlink:href="#path_3" fill-rule="evenodd" />
+        <g clip-path="url(#clip_4)">
+          <use xlink:href="#path_3" fill="none" stroke="#072A23" stroke-width="112" />
+        </g>
+      </g>
+      <g id="Oval-Copy-3">
+        <use stroke="none" fill="#072A23" xlink:href="#path_4" fill-rule="evenodd" />
+        <g clip-path="url(#clip_5)">
+          <use xlink:href="#path_4" fill="none" stroke="#072A23" stroke-width="112" />
+        </g>
+      </g>
+      <g id="Oval-Copy">
+        <use stroke="none" fill="#072A23" xlink:href="#path_5" fill-rule="evenodd" />
+        <g clip-path="url(#clip_6)">
+          <use xlink:href="#path_5" fill="none" stroke="#072A23" stroke-width="112" />
+        </g>
+      </g>
+      <g id="Oval-Copy-4">
+        <use stroke="none" fill="#072A23" xlink:href="#path_6" fill-rule="evenodd" />
+        <g clip-path="url(#clip_7)">
+          <use xlink:href="#path_6" fill="none" stroke="#072A23" stroke-width="112" />
+        </g>
+      </g>
+      <g id="Oval-Copy-5">
+        <use stroke="none" fill="#072A23" xlink:href="#path_7" fill-rule="evenodd" />
+        <g clip-path="url(#clip_8)">
+          <use xlink:href="#path_7" fill="none" stroke="#072A23" stroke-width="112" />
+        </g>
+      </g>
+      <path d="M119.497 226.043L223.851 261.27" id="Line" fill="none" fill-rule="evenodd" stroke="#072A23" stroke-width="56" stroke-linecap="square" />
+      <path d="M107.579 422.492L211.933 457.72" id="Line-Copy-5" fill="none" fill-rule="evenodd" stroke="#072A23" stroke-width="56" stroke-linecap="square" />
+      <path d="M317.132 256.835L412.065 162.463" id="Line-Copy-2" fill="none" fill-rule="evenodd" stroke="#072A23" stroke-width="56" stroke-linecap="square" />
+      <path d="M277.741 435.403L279.817 329.322" id="Line-Copy-3" fill="none" fill-rule="evenodd" stroke="#072A23" stroke-width="56" stroke-linecap="square" />
+      <path d="M326.303 464.709L421.236 370.338" id="Line-Copy-4" fill="none" fill-rule="evenodd" stroke="#072A23" stroke-width="56" stroke-linecap="square" />
+      <path d="M117.988 150.116L200.787 77.033" id="Line-Copy" fill="none" fill-rule="evenodd" stroke="#072A23" stroke-width="56" stroke-linecap="square" />
+    </g>
+  </g>
+</svg>

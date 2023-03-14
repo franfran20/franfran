@@ -1,0 +1,34 @@
+.sponsors {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 40px 0px;
+  background-color: #3fc0a4;
+}
+
+.sponsors p {
+  font-size: 24px;
+}
+
+.sponsors img {
+  width: 50%;
+  height: auto;
+}
+
+@media screen and (min-width: 1000px) {
+  .sponsors {
+    flex-direction: row;
+    justify-content: flex-end;
+    align-items: center;
+    padding: 80px;
+  }
+
+  .sponsors p {
+    margin-right: 40px;
+  }
+
+  .sponsors img {
+    width: 35%;
+  }
+}

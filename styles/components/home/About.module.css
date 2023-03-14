@@ -1,0 +1,176 @@
+.about {
+  background-color: #02110e;
+  padding: 40px 0px;
+}
+
+.about h2 {
+  padding: 30px 0px;
+  margin: 0px;
+  text-align: center;
+  color: #fff;
+  font-size: 40px;
+  font-weight: bold;
+}
+
+.content {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+}
+
+.top {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+}
+
+.text {
+  display: none;
+}
+
+.box {
+  margin: 30px;
+  width: 220px;
+  height: 310px;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  box-shadow: 2px 2px 15px #64646457;
+  padding: 40px;
+  border-radius: 8px;
+  background-color: #143d34;
+}
+
+.box img {
+  width: 200px;
+  height: auto;
+}
+.box h4 {
+  font-size: 22px;
+  width: 70%;
+}
+
+.boxWhite {
+  margin: 30px;
+  width: 220px;
+  height: 310px;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  box-shadow: 2px 2px 15px #6464644f;
+  padding: 40px;
+  border-radius: 8px;
+  background-color: #fff;
+}
+
+.boxWhite img {
+  width: 200px;
+  height: auto;
+}
+
+.boxWhite h4 {
+  font-size: 22px;
+  width: 70%;
+}
+
+@media screen and (min-width: 1000px) {
+  .top {
+    display: flex;
+    flex-direction: row;
+  }
+
+  .text {
+    display: flex;
+    flex-direction: column;
+    width: 40%;
+    margin: 30px;
+  }
+
+  .text h2 {
+    font-size: 30px;
+    text-align: left;
+    margin: 10px 10px;
+    padding: 5px 0px;
+  }
+
+  .text p {
+    color: #fff;
+    margin: 0px;
+  }
+
+  .text span {
+    color: #143d34;
+    font-size: 90px;
+    margin-right: 10px;
+  }
+
+  .box {
+    width: 150px;
+    height: 200px;
+    margin: 10px;
+  }
+
+  .box img {
+    width: 120px;
+  }
+
+  .boxWhite {
+    width: 150px;
+    height: 200px;
+    margin: 10px;
+  }
+
+  .boxWhite img {
+    width: 120px;
+  }
+}
+
+@media screen and (min-width: 1000px) {
+  .box {
+    width: 180px;
+    height: 230px;
+    margin: 10px;
+  }
+
+  .boxWhite {
+    width: 180px;
+    height: 230px;
+    margin: 10px;
+  }
+
+  .box:hover {
+    background-color: #3fc0a4;
+  }
+
+  .boxWhite:hover {
+    background-color: #3fc0a4;
+  }
+}
+
+@media screen and (min-width: 1000px) {
+  .box {
+    width: 12%;
+    height: 230px;
+    margin: 20px;
+  }
+
+  .boxWhite {
+    width: 12%;
+    height: 230px;
+    margin: 20px;
+  }
+
+  .box:hover {
+    background-color: #3fc0a4;
+  }
+
+  .boxWhite:hover {
+    background-color: #3fc0a4;
+  }
+}

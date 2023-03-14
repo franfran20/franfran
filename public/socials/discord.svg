@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="406px" height="326px" viewBox="0 0 406 326" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <rect width="406" height="326" id="artboard_1" />
+    <clipPath id="clip_1">
+      <use xlink:href="#artboard_1" clip-rule="evenodd" />
+    </clipPath>
+  </defs>
+  <g id="Artboard" clip-path="url(#clip_1)">
+    <use xlink:href="#artboard_1" stroke="none" fill="#FFFFFF" fill-opacity="0" />
+    <g id="Group" transform="translate(25 38.99997)" artboard="1a08f3a8-bec0-4733-b959-189af763859f">
+      <path d="M35.0801 47.96C61.4801 0.910009 131 0 131 0L141 18C141 18 60.8501 35.2001 78.0001 58.0001C95.15 80.8 105.65 41.9 172.8 43.6C239.95 45.3 262.401 74.7001 274.6 56.0001C286.8 37.3001 210 20 210 20L215.4 0.399994C215.4 0.399994 286.151 -0.950011 314.2 49.6001C342.25 100.15 350 209 350 209C350 209 335.15 229.99 310.9 242.49C286.65 254.99 253 258.999 253 258.999L232 233C232 233 304.401 217.55 287.201 198.6C270.001 179.65 229.477 216.118 187.404 216.9C117.446 218.201 78.6588 178.288 63.4 198.6C48.1412 218.913 116 235 116 235L100 258.999C100 258.999 66 254.99 41 242.49C16 229.99 0 209 0 209C0 209 8.68002 95.0101 35.0801 47.96Z" id="Vector" fill="#0C9A88" fill-rule="evenodd" stroke="none" />
+      <path d="M100 148C100 130.327 111.193 116 125 116C138.807 116 150 130.327 150 148C150 165.673 138.807 180 125 180C111.193 180 100 165.673 100 148Z" id="Oval" fill="#FFFFFF" fill-rule="evenodd" stroke="none" />
+      <path d="M199 148C199 130.327 210.193 116 224 116C237.807 116 249 130.327 249 148C249 165.673 237.807 180 224 180C210.193 180 199 165.673 199 148Z" id="Oval-Copy" fill="#FFFFFF" fill-rule="evenodd" stroke="none" />
+    </g>
+  </g>
+</svg>

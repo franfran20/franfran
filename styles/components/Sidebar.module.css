@@ -1,0 +1,49 @@
+.linksAndSocials {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  position: fixed;
+  top: 0px;
+  right: 0px;
+  height: 100vh;
+  background-color: #021816;
+  width: 40%;
+  padding: 15px;
+}
+
+.goback {
+  width: 30px;
+  height: 30px;
+  margin: 20px 10px;
+}
+
+.links {
+  margin: 80px 10px;
+  display: flex;
+  flex-direction: column;
+}
+
+.links a {
+  color: #fff;
+  font-size: 22px;
+  margin: 20px 10px;
+}
+
+.socials {
+  position: fixed;
+  bottom: 20px;
+  margin: 0px 10px;
+}
+
+.socials a img {
+  width: 33px;
+  height: 30px;
+  margin: 0px 5px;
+}
+
+@media screen and (min-width: 768px) {
+  .linksAndSocials {
+    display: none;
+  }
+}

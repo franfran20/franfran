@@ -1,0 +1,51 @@
+.WhoAreTheRegenRangers {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  width: 80%;
+  margin: 80px auto;
+}
+
+.WhoAreTheRegenRangers img {
+  width: 300px;
+  height: auto;
+  margin: 20px 0px;
+}
+
+.text span {
+  color: #307e6d;
+  font-weight: 700;
+}
+
+.text h2 {
+  font-size: 32px;
+  font-weight: 800;
+}
+
+.text p {
+  font-size: 18px;
+}
+
+@media screen and (min-width: 768px) {
+  .WhoAreTheRegenRangers {
+    width: 85%;
+    flex-direction: row;
+  }
+
+  .WhoAreTheRegenRangers img {
+    width: 300px;
+    height: auto;
+    margin-right: 100px;
+  }
+
+  .text {
+    width: 75%;
+  }
+}
+
+@media screen and (min-width: 1200px) {
+  .text {
+    width: 50%;
+  }
+}

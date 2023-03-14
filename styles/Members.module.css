@@ -1,0 +1,19 @@
+.members {
+  background-color: #021816;
+}
+
+.members h2 {
+  margin: 0px;
+  font-size: 38px;
+  font-weight: 800;
+  color: #fff;
+  text-align: center;
+  padding: 40px 0px;
+}
+
+.coreMembers {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+}
