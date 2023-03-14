@@ -7,5 +7,6 @@
 
 2. Kudos Design.
    ![Alt text](public/kudos.png)
+   <image src="public/kudos.png" width="300" height="300" />
 
 3. [Blog Link](BLOG.md)
