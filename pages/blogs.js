@@ -1,5 +1,6 @@
 import { Blog } from "@/components/blogs/Blog";
 import { ALL_BLOGS } from "@/utils/utils";
+import Head from "next/head";
 import styles from "../styles/Blogs.module.css";
 
 export default function Blogs() {
