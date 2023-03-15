@@ -25,7 +25,7 @@ export const Hero = () => {
               science and the development of useful algorithms and other
               approaches
             </p>
-            <Link href="/">Members</Link>
+            <Link href="/members">Members</Link>
           </motion.div>
         </div>
       </div>

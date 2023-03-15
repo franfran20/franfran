@@ -37,56 +37,56 @@
   <g id="Artboard" clip-path="url(#clip_1)">
     <use xlink:href="#artboard_1" stroke="none" fill="#FFFFFF" fill-opacity="0" />
     <g id="Group-5" transform="translate(-21.845764 1.3741455)" artboard="e4c7edda-5e7a-49ad-b5fd-49a8f0e50a8b">
-      <path d="M219.557 223.25L218.933 68.557" id="Vector" fill="none" fill-rule="evenodd" stroke="#143D34" stroke-width="11" />
+      <path d="M219.557 223.25L218.933 68.557" id="Vector" fill="none" fill-rule="evenodd" stroke="#040A2E" stroke-width="11" />
       <g id="Oval-Copy">
         <g clip-path="url(#clip_2)">
-          <use xlink:href="#path_1" fill="none" stroke="#143D34" stroke-width="20" />
+          <use xlink:href="#path_1" fill="none" stroke="#040A2E" stroke-width="20" />
         </g>
       </g>
       <g id="Group" transform="matrix(0.88294756 -0.46947157 0.46947157 0.88294756 200.58911 142.82764)">
-        <path d="M3.0702e-05 81.4039L125.808 52.2881" id="Vector-Copy" fill="none" fill-rule="evenodd" stroke="#143D34" stroke-width="11" />
+        <path d="M3.06048e-05 81.4039L125.808 52.2881" id="Vector-Copy" fill="none" fill-rule="evenodd" stroke="#040A2E" stroke-width="11" />
         <g id="Oval-Copy-2">
           <g clip-path="url(#clip_3)">
-            <use xlink:href="#path_2" fill="none" stroke="#143D34" stroke-width="20" />
+            <use xlink:href="#path_2" fill="none" stroke="#040A2E" stroke-width="20" />
           </g>
         </g>
       </g>
-      <g id="Group-Copy" transform="matrix(-0.88294756 -0.46947163 -0.46947163 0.88294756 254.38873 147.62119)">
-        <path d="M0 90.9543L142.999 56.11" id="Vector-Copy" fill="none" fill-rule="evenodd" stroke="#143D34" stroke-width="11" />
+      <g id="Group-Copy" transform="matrix(-0.88294756 -0.4694716 -0.4694716 0.88294756 254.38873 147.62117)">
+        <path d="M7.62939e-06 90.9542L142.999 56.11" id="Vector-Copy" fill="none" fill-rule="evenodd" stroke="#040A2E" stroke-width="11" />
         <g id="Oval-Copy-2">
           <g clip-path="url(#clip_4)">
-            <use xlink:href="#path_3" fill="none" stroke="#143D34" stroke-width="20" />
+            <use xlink:href="#path_3" fill="none" stroke="#040A2E" stroke-width="20" />
           </g>
         </g>
       </g>
       <g id="Group-Copy-3" transform="matrix(0.89100647 0.4539906 0.4539906 -0.89100647 183.98132 313.55255)">
-        <path d="M-7.62939e-06 92.1529L144.586 56.6249" id="Vector-Copy" fill="none" fill-rule="evenodd" stroke="#143D34" stroke-width="11" />
+        <path d="M-7.62939e-06 92.1529L144.586 56.6249" id="Vector-Copy" fill="none" fill-rule="evenodd" stroke="#040A2E" stroke-width="11" />
         <g id="Oval-Copy-2">
           <g clip-path="url(#clip_5)">
-            <use xlink:href="#path_4" fill="none" stroke="#143D34" stroke-width="20" />
+            <use xlink:href="#path_4" fill="none" stroke="#040A2E" stroke-width="20" />
           </g>
         </g>
       </g>
-      <g id="Group-Copy-4" transform="matrix(0.24192186 0.9702957 0.9702957 -0.24192186 131.01793 246.51839)">
-        <path d="M6.86646e-05 93.0922L142.022 54.1593" id="Vector-Copy" fill="none" fill-rule="evenodd" stroke="#143D34" stroke-width="11" />
+      <g id="Group-Copy-4" transform="matrix(0.24192186 0.9702957 0.9702957 -0.24192186 131.01793 246.51842)">
+        <path d="M6.86646e-05 93.0922L142.022 54.1593" id="Vector-Copy" fill="none" fill-rule="evenodd" stroke="#040A2E" stroke-width="11" />
         <g id="Oval-Copy-2">
           <g clip-path="url(#clip_6)">
-            <use xlink:href="#path_5" fill="none" stroke="#143D34" stroke-width="20" />
+            <use xlink:href="#path_5" fill="none" stroke="#040A2E" stroke-width="20" />
           </g>
         </g>
       </g>
       <g id="Group-Copy-2" transform="matrix(-0.5591929 0.82903755 0.82903755 0.5591929 141.49225 176.3569)">
-        <path d="M3.05176e-05 90.9289L140.699 54.3906" id="Vector-Copy" fill="none" fill-rule="evenodd" stroke="#143D34" stroke-width="11" />
+        <path d="M3.05176e-05 90.9289L140.699 54.3906" id="Vector-Copy" fill="none" fill-rule="evenodd" stroke="#040A2E" stroke-width="11" />
         <g id="Oval-Copy-2">
           <g clip-path="url(#clip_7)">
-            <use xlink:href="#path_6" fill="none" stroke="#143D34" stroke-width="20" />
+            <use xlink:href="#path_6" fill="none" stroke="#040A2E" stroke-width="20" />
           </g>
         </g>
       </g>
       <g id="Oval">
-        <use stroke="none" fill="#143D34" xlink:href="#path_7" fill-rule="evenodd" />
+        <use stroke="none" fill="#040A2E" xlink:href="#path_7" fill-rule="evenodd" />
         <g clip-path="url(#clip_8)">
-          <use xlink:href="#path_7" fill="none" stroke="#143D34" stroke-width="20" />
+          <use xlink:href="#path_7" fill="none" stroke="#040A2E" stroke-width="20" />
         </g>
       </g>
     </g>

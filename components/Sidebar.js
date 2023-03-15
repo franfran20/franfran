@@ -18,8 +18,8 @@ export const Sidebar = ({ setMenu, menu }) => {
       />
 
       <div className={styles.links}>
-        <Link href="/">Members</Link>
-        <Link href="/">Blogs</Link>
+        <Link href="/members">Members</Link>
+        <Link href="/blogs">Blogs</Link>
       </div>
 
       <div className={styles.socials}>
