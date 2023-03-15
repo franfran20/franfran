@@ -1,5 +1,5 @@
 .about {
-  background-color: #02110e;
+  background-color: #040a2e;
   padding: 40px 0px;
 }
 
@@ -8,7 +8,7 @@
   margin: 0px;
   text-align: center;
   color: #fff;
-  font-size: 40px;
+  font-size: 50px;
   font-weight: bold;
 }
 
@@ -43,7 +43,8 @@
   box-shadow: 2px 2px 15px #64646457;
   padding: 40px;
   border-radius: 8px;
-  background-color: #143d34;
+  color: #fff;
+  background-color: #040a2e;
 }
 
 .box img {
@@ -67,6 +68,7 @@
   padding: 40px;
   border-radius: 8px;
   background-color: #fff;
+  color: #132098;
 }
 
 .boxWhite img {
@@ -102,6 +104,7 @@
   .text p {
     color: #fff;
     margin: 0px;
+    font-size: 21px;
   }
 
   .text span {

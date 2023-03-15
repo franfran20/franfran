@@ -4,7 +4,7 @@
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  background-color: #e6fffa;
+  background-color: #dcdaff;
   padding: 20px 0px;
 }
 
@@ -21,7 +21,7 @@
 }
 
 .footerLinks a {
-  color: #db0000;
+  color: #01010a;
   font-size: 17px;
   margin-right: 5px;
 }

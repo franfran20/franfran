@@ -1,5 +1,5 @@
 .SafeGuardingWeb3 {
-  background-color: #e82121;
+  background-color: #01010a;
   padding: 60px 0px;
 }
 
@@ -19,7 +19,7 @@
 
 .content h2 {
   font-size: 32px;
-  color: #010d33;
+  color: #091ee1;
   margin: 40px 0px;
   text-align: center;
 }
@@ -43,13 +43,14 @@
 
   .content img {
     width: 450px;
-    margin-left: 40%;
+    margin-left: 37%;
   }
 
   .content h2 {
     text-align: left;
     font-weight: bold;
     font-size: 40px;
+    width: 70%;
   }
 
   .content p {

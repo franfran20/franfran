@@ -4,7 +4,7 @@
   justify-content: center;
   align-items: center;
   width: 100%;
-  background-image: url("/home/home_hero_mobile.png");
+  background-image: url("/home/hero_image_desktop.jpg");
   background-repeat: no-repeat;
   background-size: 100% 100%;
   height: calc(100vh - 90px);
@@ -37,7 +37,7 @@
 }
 
 .textContent span {
-  color: #08805e;
+  color: #767aec;
 }
 
 .textContent p {
@@ -48,15 +48,16 @@
 
 .textContent a {
   padding: 14px 16px;
-  background-color: #02110e;
-  color: #fff;
+  background-color: #fff;
+  color: #2100da;
   margin: 10px 0px;
   font-size: 20px;
   border-radius: 5px;
 }
 
 .textContent a:hover {
-  background-color: #08805e;
+  background-color: #2100da;
+  color: #fff;
 }
 
 @media screen and (min-width: 1000px) {
@@ -65,6 +66,6 @@
   }
 
   .hero {
-    background-image: url("/home/hero_image.jpg");
+    background-image: url("/home/hero_image_desktop.jpg");
   }
 }

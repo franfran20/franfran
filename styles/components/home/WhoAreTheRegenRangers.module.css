@@ -14,20 +14,20 @@
 }
 
 .text span {
-  color: #307e6d;
+  color: #38307e;
   font-weight: 700;
 }
 
 .text h2 {
-  font-size: 32px;
-  font-weight: 800;
+  font-size: 45px;
+  font-weight: 900;
 }
 
 .text p {
-  font-size: 18px;
+  font-size: 20px;
 }
 
-@media screen and (min-width: 768px) {
+@media screen and (min-width: 1000px) {
   .WhoAreTheRegenRangers {
     width: 85%;
     flex-direction: row;

@@ -8,14 +8,14 @@
 }
 
 .text {
-  background-color: #143d34;
+  background-color: #020218;
   width: 300px;
   color: #fff;
 }
 
 .text:hover {
   background-color: #fff;
-  color: #143d34;
+  color: #020218;
 }
 
 .text p {
@@ -26,12 +26,12 @@
 }
 
 .text .author {
-  color: #0c9a88;
+  color: #1138c7;
   font-size: 16px;
   margin-bottom: 16px;
 }
 
 .blog img {
   width: 300px;
-  height: auto;
+  height: 200px;
 }

@@ -1,12 +1,45 @@
-import Image from "next/image";
 import styles from "../../styles/components/home/SafeGuardingWeb3.module.css";
+import { motion } from "framer-motion";
 
 export const SafeGuardingWeb3 = () => {
   return (
     <div className={styles.SafeGuardingWeb3}>
       <div className={styles.content}>
-        <Image src="/illustrations/atom.svg" width="500" height="500" />
-        <div className={styles.text}>
+        <motion.img
+          src="/illustrations/atom.svg"
+          width="500"
+          height="500"
+          initial="hidden"
+          whileInView="visible"
+          variants={{
+            visible: {
+              opacity: 1,
+              transition: {
+                duration: 1,
+              },
+            },
+            hidden: {
+              opacity: 0,
+            },
+          }}
+        />
+
+        <motion.div
+          className={styles.text}
+          initial="hidden"
+          whileInView="visible"
+          variants={{
+            visible: {
+              opacity: 1,
+              transition: {
+                duration: 1,
+              },
+            },
+            hidden: {
+              opacity: 0,
+            },
+          }}
+        >
           <h2>
             Safeguarding Web3s Public Good Funding from Sybil Attacks and
             Centralization
@@ -20,7 +53,7 @@ export const SafeGuardingWeb3 = () => {
             right above the decentralized blockchains in the form of
             centralization.
           </p>
-        </div>
+        </motion.div>
       </div>
     </div>
   );

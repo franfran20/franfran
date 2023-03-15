@@ -21,9 +21,9 @@ export default function Home() {
 
         <WhoAreTheRegenRangers />
 
-        <SafeGuardingWeb3 />
-
         <About />
+
+        <SafeGuardingWeb3 />
 
         <Sponsors />
       </main>

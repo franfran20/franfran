@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="964px" height="967px" viewBox="0 0 964 967" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <rect width="964" height="967" id="artboard_1" />
+    <clipPath id="clip_1">
+      <use xlink:href="#artboard_1" clip-rule="evenodd" />
+    </clipPath>
+  </defs>
+  <g id="Artboard" clip-path="url(#clip_1)">
+    <use xlink:href="#artboard_1" stroke="none" fill="#FFFFFF" fill-opacity="0" />
+    <path d="M49 56L49 926.088L113.704 930L113.704 603.718C113.704 603.718 193.146 553.684 322.555 567.573C451.964 581.461 528.184 649.504 675.045 661.474C821.907 673.444 910 615.454 910 615.454L910 97.47C910 97.47 815.474 156.925 661.909 148.709C508.344 140.493 501.441 79.525 361.3 66.8099C221.158 54.0949 123.194 115.466 123.194 115.466L123.194 56L49 56Z" id="Vector" fill="none" fill-rule="evenodd" stroke="#38307E" stroke-width="35" artboard="6f128226-895d-49e1-aded-8682d9bb4cfb" />
+    <path d="M371.659 262.568L269.858 358.027L354.405 448.009" id="Vector-2" fill="none" fill-rule="evenodd" stroke="#38307E" stroke-width="35" artboard="df8e8023-ee61-414b-bcbd-6e1d534ea9c1" />
+    <path d="M556.282 207.796L478.637 505.128" id="Vector-3" fill="none" fill-rule="evenodd" stroke="#38307E" stroke-width="35" artboard="e8d9205e-5a96-4d74-95ad-768e7efd98f1" />
+    <path d="M666.711 261.003L777.14 358.027L674.476 449.574" id="Vector-4" fill="none" fill-rule="evenodd" stroke="#38307E" stroke-width="35" artboard="c69ff32c-cbb2-4012-930e-73008b906c58" />
+    <path d="M171.507 206.231L242.25 209.361" id="Vector-5" fill="none" fill-rule="evenodd" stroke="#38307E" stroke-width="35" artboard="853e377f-ebc9-4a37-85b0-8e3b8867ba06" />
+    <path d="M173.232 159.284L243.976 162.414" id="Vector-5-Copy" fill="none" fill-rule="evenodd" stroke="#38307E" stroke-width="35" artboard="242d4f82-628b-4bb0-b748-a4f3f08e05ca" />
+    <path d="M169.782 253.178L240.525 256.308" id="Vector-5-Copy-2" fill="none" fill-rule="evenodd" stroke="#38307E" stroke-width="35" artboard="8a4286d1-2b01-4259-b16a-5e536b7f03ed" />
+    <path d="M123.194 117.031L114.36 635.767" id="Vector-6" fill="none" fill-rule="evenodd" stroke="#38307E" stroke-width="35" artboard="48fdb661-2919-484b-96fb-d15f0e8bda48" />
+  </g>
+</svg>

@@ -53,12 +53,12 @@ const ALL_BLOGS = [
   {
     title: "Meet The Regen Rangers!",
     author: "John Miguel",
-    image: "/dummy/dummy2.svg",
+    image: "/dummy/dummy32.jpg",
   },
   {
     title: "DataBuilders Hackathon",
     author: "Jeffery White",
-    image: "/dummy/dummy3.svg",
+    image: "/dummy/dummy1912.jpg",
   },
 ];
 

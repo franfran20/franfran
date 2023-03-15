@@ -1,6 +1,7 @@
 import Image from "next/image";
 import Link from "next/link";
 import styles from "../styles/components/Sidebar.module.css";
+import { motion } from "framer-motion";
 
 export const Sidebar = ({ setMenu, menu }) => {
   const handleSetMenu = () => {
@@ -22,15 +23,15 @@ export const Sidebar = ({ setMenu, menu }) => {
       </div>
 
       <div className={styles.socials}>
-        <Link href="/">
+        <motion.a href="/" animate={{ scale: 1.3 }}>
           <Image src="/socials/discord.svg" height="30" width="30" />
-        </Link>
-        <Link href="/">
+        </motion.a>
+        <motion.a href="/" animate={{ scale: 1.3 }}>
           <Image src="/socials/github.svg" height="30" width="30" />
-        </Link>
-        <Link href="/">
+        </motion.a>
+        <motion.a href="/" animate={{ scale: 1.3 }}>
           <Image src="/socials/twitter.svg" height="30" width="30" />
-        </Link>
+        </motion.a>
       </div>
     </div>
   );

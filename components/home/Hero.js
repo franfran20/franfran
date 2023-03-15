@@ -1,12 +1,21 @@
 import Link from "next/link";
 import styles from "../../styles/components/home/Hero.module.css";
+import { motion } from "framer-motion";
 
 export const Hero = () => {
   return (
     <main>
       <div className={styles.hero}>
         <div className={styles.overlay}>
-          <div className={styles.textContent}>
+          <motion.div
+            className={styles.textContent}
+            initial={{ opacity: 0, y: "-100vh" }}
+            animate={{ opacity: 1, scale: 1.005, y: 0 }}
+            transition={{
+              duration: 1.2,
+              delay: 0.1,
+            }}
+          >
             <h2>
               Regen <span>| Rangers</span>
             </h2>
@@ -17,7 +26,7 @@ export const Hero = () => {
               approaches
             </p>
             <Link href="/">Members</Link>
-          </div>
+          </motion.div>
         </div>
       </div>
     </main>

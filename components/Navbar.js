@@ -3,13 +3,13 @@ import Link from "next/link";
 import { useState } from "react";
 import styles from "../styles/components/Navbar.module.css";
 import { Sidebar } from "./Sidebar";
+import { motion } from "framer-motion";
 
 export const Navbar = () => {
   const [openMenu, setOpenMenu] = useState(false);
 
   return (
     <>
-      {" "}
       <nav className={styles.navbar}>
         <Link href="/">
           <Image
@@ -21,20 +21,24 @@ export const Navbar = () => {
         </Link>
 
         <div className={styles.links}>
-          <Link href="/members">Members</Link>
-          <Link href="/blogs">Blogs</Link>
+          <motion.a href="/members" whileHover={{ scale: 1.2 }}>
+            Members
+          </motion.a>
+          <motion.a href="/blogs" whileHover={{ scale: 1.2 }}>
+            Blogs
+          </motion.a>
         </div>
 
         <div className={styles.socials}>
-          <Link href="/">
+          <motion.a href="/" whileHover={{ scale: 1.5 }}>
             <Image src="/socials/discord.svg" height="30" width="30" />
-          </Link>
-          <Link href="/">
+          </motion.a>
+          <motion.a href="/" whileHover={{ scale: 1.5 }}>
             <Image src="/socials/github.svg" height="30" width="30" />
-          </Link>
-          <Link href="/">
+          </motion.a>
+          <motion.a href="/" whileHover={{ scale: 1.5 }}>
             <Image src="/socials/twitter.svg" height="30" width="30" />
-          </Link>
+          </motion.a>
         </div>
 
         {!openMenu && (

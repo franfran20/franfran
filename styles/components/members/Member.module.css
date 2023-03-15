@@ -4,17 +4,17 @@
   justify-content: center;
   align-items: flex-start;
   width: 60%;
-  box-shadow: 2px 2px 25px #6464644f;
+  box-shadow: 2px 2px 30px #64646439;
   margin: 35px;
   padding: 40px 25px;
   border-radius: 16px;
-  background-color: #143d34;
+  background-color: #040a2e;
   color: #fff;
 }
 
 .member img {
   width: 220px;
-  height: auto;
+  height: 200px;
   margin-bottom: 10px;
   border-radius: 50%;
 }
