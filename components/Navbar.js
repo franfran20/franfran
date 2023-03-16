@@ -4,6 +4,7 @@ import { useState } from "react";
 import styles from "../styles/components/Navbar.module.css";
 import { Sidebar } from "./Sidebar";
 import { motion } from "framer-motion";
+import { SOCIAL_LINKS } from "@/utils/utils";
 
 export const Navbar = () => {
   const [openMenu, setOpenMenu] = useState(false);
@@ -30,13 +31,13 @@ export const Navbar = () => {
         </div>
 
         <div className={styles.socials}>
-          <motion.a href="/" whileHover={{ scale: 1.5 }}>
+          <motion.a href={SOCIAL_LINKS.discord} whileHover={{ scale: 1.5 }}>
             <Image src="/socials/discord.svg" height="30" width="30" />
           </motion.a>
-          <motion.a href="/" whileHover={{ scale: 1.5 }}>
+          <motion.a href={SOCIAL_LINKS.github} whileHover={{ scale: 1.5 }}>
             <Image src="/socials/github.svg" height="30" width="30" />
           </motion.a>
-          <motion.a href="/" whileHover={{ scale: 1.5 }}>
+          <motion.a href={SOCIAL_LINKS.twitter} whileHover={{ scale: 1.5 }}>
             <Image src="/socials/twitter.svg" height="30" width="30" />
           </motion.a>
         </div>

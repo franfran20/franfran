@@ -51,19 +51,28 @@ const CORE_MEMBERS = [
 
 const ALL_BLOGS = [
   {
-    title: "Meet The Regen Rangers!",
-    author: "John Miguel",
+    title: "Defending Web3 With Data Science",
+    author: "Egboluche Francis",
     image: "/dummy/dummy32.jpg",
+    link: "https://github.com/franfran20/regen_rangers_bounty/blob/main/BLOG.md",
   },
   {
     title: "DataBuilders Hackathon",
     author: "Jeffery White",
     image: "/dummy/dummy1912.jpg",
+    link: "/",
   },
 ];
+
+const SOCIAL_LINKS = {
+  discord: "https://discord.gg/fwBdRRv4",
+  github: "https://github.com/opendataforweb3",
+  twitter: "https://twitter.com/OpenDataforWeb3",
+};
 
 module.exports = {
   TEXT_TO_DISPLAY,
   CORE_MEMBERS,
   ALL_BLOGS,
+  SOCIAL_LINKS,
 };

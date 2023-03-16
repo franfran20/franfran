@@ -25,6 +25,7 @@ export default function Blogs() {
               title={blog.title}
               author={blog.author}
               image={blog.image}
+              link={blog.link}
               key={index}
             />
           );

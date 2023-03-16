@@ -4,7 +4,7 @@
   justify-content: center;
   align-items: flex-start;
   width: 60%;
-  box-shadow: 2px 2px 30px #64646439;
+  box-shadow: 2px 2px 20px #64646423;
   margin: 35px;
   padding: 40px 25px;
   border-radius: 16px;
@@ -23,16 +23,12 @@
   font-size: 35px;
   font-weight: 700;
   margin: 8px 0px;
+  color: #6ecfea;
 }
 
 .member p {
   font-size: 16px;
   margin: 18px 0px;
-}
-
-.member:hover {
-  background-color: #fff;
-  color: #143d34;
 }
 
 @media screen and (min-width: 1000px) {

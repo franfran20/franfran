@@ -2,6 +2,7 @@ import Image from "next/image";
 import Link from "next/link";
 import styles from "../styles/components/Sidebar.module.css";
 import { motion } from "framer-motion";
+import { SOCIAL_LINKS } from "@/utils/utils";
 
 export const Sidebar = ({ setMenu, menu }) => {
   const handleSetMenu = () => {
@@ -36,7 +37,7 @@ export const Sidebar = ({ setMenu, menu }) => {
       </div>
 
       <div className={styles.socials}>
-        <motion.a href="/">
+        <motion.a href={SOCIAL_LINKS.discord}>
           <motion.img
             whileHover={{ scale: 1.3 }}
             initial={{ scale: 1 }}
@@ -46,7 +47,7 @@ export const Sidebar = ({ setMenu, menu }) => {
             width="30"
           />
         </motion.a>
-        <motion.a href="/">
+        <motion.a href={SOCIAL_LINKS.github}>
           <motion.img
             whileHover={{ scale: 1.3 }}
             initial={{ scale: 1 }}
@@ -57,7 +58,7 @@ export const Sidebar = ({ setMenu, menu }) => {
           />
         </motion.a>
 
-        <motion.a href="/">
+        <motion.a href={SOCIAL_LINKS.twitter}>
           <motion.img
             src="/socials/twitter.svg"
             whileHover={{ scale: 1.3 }}
