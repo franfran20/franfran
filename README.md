@@ -1,5 +1,4 @@
-# STILL A WIP - WORK IN PROGRESS (NOT DONE)
-
+# **REGEN RANGERS BOUNTY SUBMSISSION**
 
 # Regen Rangers Bounty Submission
 
