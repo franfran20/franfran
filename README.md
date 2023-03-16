@@ -1,10 +1,13 @@
-# **REGEN RANGERS BOUNTY SUBMSISSION**
+# **Regen Rangers Bount Submission**
 
-# Regen Rangers Bounty Submission
+These are the basic requirements that were demanded for the bounty submission. Feel free to discuss with me to make changes where you see fit.
 
-1. [Raw Site Live Demo Link](https://merry-lily-338a0b.netlify.app)
+### **Details**
 
-2. Kudos Design.
-   <image src="public/kudos.png" width="300" height="300" />
+- [Live Website Link](https://regen-rangers-bounty.vercel.app/)
 
-3. [Blog Link](BLOG.md)
+- [Written Blog](BLOG.md)
+
+- Kudos Design.
+
+  <image src="public/kudos.png" width="300" height="300" />
