@@ -42,12 +42,15 @@ export const About = () => {
             variants={{
               visible: {
                 opacity: 1,
+                x: 0,
                 transition: {
-                  duration: 2,
+                  duration: 0.4,
+                  stifness: 10,
                 },
               },
               hidden: {
                 opacity: 0,
+                x: "10vw",
               },
             }}
             className={styles.box}
@@ -56,18 +59,22 @@ export const About = () => {
             <Image src="/illustrations/shield.svg" width="500" height="500" />
             <h4>Sybil Resistance</h4>
           </motion.div>
+
           <motion.div
             initial="hidden"
             whileInView="visible"
             variants={{
               visible: {
                 opacity: 1,
+                x: 0,
                 transition: {
-                  duration: 2,
+                  duration: 0.4,
+                  stifness: 10,
                 },
               },
               hidden: {
                 opacity: 0,
+                x: "10vw",
               },
             }}
             className={styles.boxWhite}
@@ -88,12 +95,15 @@ export const About = () => {
           variants={{
             visible: {
               opacity: 1,
+              x: 0,
               transition: {
-                duration: 2,
+                duration: 0.4,
+                stifness: 10,
               },
             },
             hidden: {
               opacity: 0,
+              x: "10vw",
             },
           }}
           className={styles.boxWhite}
@@ -102,18 +112,22 @@ export const About = () => {
           <Image src="/illustrations/github.svg" width="500" height="500" />
           <h4>Openess</h4>
         </motion.div>
+
         <motion.div
           initial="hidden"
           whileInView="visible"
           variants={{
             visible: {
               opacity: 1,
+              x: 0,
               transition: {
-                duration: 2,
+                duration: 0.4,
+                stifness: 10,
               },
             },
             hidden: {
               opacity: 0,
+              x: "10vw",
             },
           }}
           className={styles.box}
@@ -128,12 +142,15 @@ export const About = () => {
           variants={{
             visible: {
               opacity: 1,
+              x: 0,
               transition: {
-                duration: 2,
+                duration: 0.4,
+                stifness: 10,
               },
             },
             hidden: {
               opacity: 0,
+              x: "10vw",
             },
           }}
           className={styles.boxWhite}
@@ -148,12 +165,15 @@ export const About = () => {
           variants={{
             visible: {
               opacity: 1,
+              x: 0,
               transition: {
-                duration: 2,
+                duration: 0.4,
+                stifness: 10,
               },
             },
             hidden: {
               opacity: 0,
+              x: "10vw",
             },
           }}
           className={styles.box}

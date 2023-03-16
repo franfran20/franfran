@@ -1,5 +1,5 @@
 import styles from "../../styles/components/home/SafeGuardingWeb3.module.css";
-import { motion } from "framer-motion";
+import { easeIn, motion } from "framer-motion";
 
 export const SafeGuardingWeb3 = () => {
   return (
@@ -14,12 +14,16 @@ export const SafeGuardingWeb3 = () => {
           variants={{
             visible: {
               opacity: 1,
+              x: 0,
               transition: {
                 duration: 1,
+                type: "tween",
+                easeIn: 3,
               },
             },
             hidden: {
               opacity: 0,
+              x: "30vw",
             },
           }}
         />
@@ -30,13 +34,14 @@ export const SafeGuardingWeb3 = () => {
           whileInView="visible"
           variants={{
             visible: {
-              opacity: 1,
+              y: 0,
               transition: {
-                duration: 1,
+                stiffness: 40,
+                type: "spring",
               },
             },
             hidden: {
-              opacity: 0,
+              y: "40vh",
             },
           }}
         >

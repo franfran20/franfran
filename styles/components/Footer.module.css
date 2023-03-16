@@ -30,4 +30,10 @@
   .footer {
     flex-direction: row;
   }
+
+  .footer p {
+    color: #023633;
+    font-size: 17px;
+    margin-right: 0px;
+  }
 }

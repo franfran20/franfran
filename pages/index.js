@@ -5,6 +5,7 @@ import { WhoAreTheRegenRangers } from "@/components/home/WhoAreTheRegenRangers";
 import { SafeGuardingWeb3 } from "@/components/home/SafeGuardingWeb3";
 import { About } from "@/components/home/About";
 import { Sponsors } from "@/components/home/Sponsors";
+import { JoinCommunity } from "@/components/home/JoinCommunity";
 
 export default function Home() {
   return (
@@ -25,6 +26,8 @@ export default function Home() {
         <WhoAreTheRegenRangers />
 
         <About />
+
+        <JoinCommunity />
 
         <SafeGuardingWeb3 />
 

@@ -1,0 +1,642 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="802px" height="909px" viewBox="0 0 802 909" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <path d="M0.0313721 35.0975C0.0313721 35.0975 3.91849 51.5565 64.79 60.84C125.661 70.1235 243.517 72.2315 243.517 72.2315L243.517 224.96C243.517 224.96 121.026 217.774 60.7823 208.191C0.538343 198.608 2.54154 186.628 2.54154 186.628L0.0313721 35.0975Z" id="path_1" />
+    <path d="M16.473 118.505C16.473 118.505 60.2502 132.353 76.7169 129.286" id="path_2" />
+    <path d="M16.4728 145.302C16.4728 145.302 60.2501 159.149 76.7168 156.083" id="path_3" />
+    <path d="M102.156 64.9665L103.074 7.54657C103.074 7.54657 55.7765 13.51 30.2042 19.9486C4.63189 26.3871 0 34.7981 0 34.7981C0 34.7981 3.73792 46.6511 28.9964 52.4907C54.255 58.3303 42.9618 56.916 61.2518 60.035C79.5417 63.1539 102.156 64.9665 102.156 64.9665Z" id="path_4" />
+    <path d="M417.974 0L353.964 88.6424C353.964 88.6424 384.864 86.2753 424.556 87.1737C464.248 88.0721 512.732 92.236 512.732 92.236L417.974 0Z" id="path_5" />
+    <path d="M548.844 31.5039C548.844 31.5039 603.578 37.4959 627.817 39.1829C652.055 40.8699 647.425 45.4957 647.425 45.4957L645.451 126.855C645.451 126.855 649.008 119.204 625.385 117.107C601.763 115.01 550.146 103.98 550.146 103.98L548.844 31.5039Z" id="path_6" />
+    <path d="M495.502 212.133C495.502 212.133 570.478 211.551 623.192 203.465C675.905 195.379 708.525 177.644 708.525 177.644L706.768 330.972C706.768 330.972 676.741 342.358 625.283 349.845C573.824 357.331 499.649 363.372 499.649 363.372L495.502 212.133Z" id="path_7" />
+    <path d="M636.483 151.291L634.619 202.695C634.619 202.695 656.421 198.825 674.934 193.434C693.446 188.044 708.059 178.807 708.059 178.807C708.059 178.807 694.867 167.33 676.668 160.742C658.47 154.154 636.483 151.291 636.483 151.291Z" id="path_8" />
+    <path d="M306.773 139.911C306.773 139.911 323.591 116.532 357.353 115.694C391.115 114.855 412.127 153.285 412.127 153.285C412.127 153.285 393.661 151.931 387.48 172.594C381.299 193.258 399.022 205.794 399.022 205.794C399.022 205.794 376.097 233.112 340.892 224.248C305.687 215.384 302.38 191.42 302.38 191.42C302.38 191.42 296.808 179.135 297.907 166.258C299.005 153.381 306.773 139.911 306.773 139.911Z" id="path_9" />
+    <path d="M306.748 142.628C306.748 142.628 299.939 155.82 298.684 168.398C297.429 180.975 305.509 194.752 305.509 194.752C305.509 194.752 293.739 190.641 290.765 184.506C287.792 178.37 288.228 167.477 288.228 167.477C288.228 167.477 288.962 158.722 293.512 152.433C298.061 146.144 306.748 142.628 306.748 142.628Z" id="path_10" />
+    <path d="M407.317 152.493C407.317 152.493 411.268 152.618 414.687 155.939C418.106 159.261 419.521 162.461 420.992 165.779C424.443 173.566 422.086 183.637 422.086 183.637C422.086 183.637 418.88 195.115 413.703 200.955C408.526 206.794 399.369 208.759 399.369 208.759C399.369 208.759 391.505 204.126 387.269 196.79C383.033 189.453 384.434 177.648 384.434 177.648C384.434 177.648 386.616 166.784 392.256 160.955C397.896 155.126 398.017 155.647 401.702 153.992C405.387 152.336 407.317 152.493 407.317 152.493Z" id="path_11" />
+    <path d="M393.427 176.446C393.427 176.446 395.421 170.863 398.559 167.869C401.697 164.874 405.978 164.467 405.978 164.467C405.978 164.467 412.359 166.434 414.556 170.926C416.752 175.418 414.764 182.436 414.764 182.436C414.764 182.436 412.805 187.853 409.51 190.847C406.215 193.842 401.586 194.414 401.586 194.414C401.586 194.414 396.997 193.745 394.958 189.253C392.918 184.761 393.427 176.446 393.427 176.446Z" id="path_12" />
+    <path d="M410.389 153.584L419.612 129.776C419.612 129.776 420.929 129.853 421.862 130.318C422.795 130.782 423.344 131.636 423.344 131.636L414.088 157.24L410.389 153.584Z" id="path_13" />
+    <path d="M342.811 138.222C342.763 135.576 345.814 133.38 349.626 133.316C353.437 133.253 356.567 135.346 356.615 137.992C356.664 140.638 353.613 142.835 349.801 142.898C345.989 142.962 342.86 140.868 342.811 138.222Z" id="path_14" />
+    <path d="M349.622 133.179L355.504 125.628C358.374 122.289 361.407 119.231 361.62 118.949C362.031 118.404 363.503 119.547 363.503 119.547C363.503 119.547 359.762 123.481 356.938 126.925C354.114 130.369 352.207 133.323 352.207 133.323L349.622 133.179Z" id="path_15" />
+    <path d="M330.243 169.259C330.243 169.259 329.539 174.241 332.05 177.834C334.56 181.428 334.254 182.034 339.18 182.867C344.105 183.699 345.156 182.572 348.137 179.631C351.118 176.69 352.207 171.87 352.207 171.87L330.243 169.259Z" id="path_16" />
+    <path d="M336.519 181.238C336.519 181.238 336.043 179.929 337.287 179.278C338.53 178.627 340.99 178.558 340.99 178.558C340.99 178.558 344.211 178.523 344.996 179.572C345.78 180.62 344.677 181.837 344.677 181.837C344.677 181.837 342.357 182.368 340.318 182.219C338.278 182.069 336.519 181.238 336.519 181.238Z" id="path_17" />
+    <path d="M71.2847 205.31C71.2847 205.31 83.7304 211.869 100.197 213.929C116.664 215.989 137.152 213.551 137.152 213.551C137.152 213.551 135.16 236.254 138.612 247.185C142.063 258.116 156.48 257.752 156.48 257.752C156.48 257.752 213.082 245.058 259.646 239.937C306.21 234.816 342.233 239.185 342.233 239.185C342.233 239.185 389.894 246.057 429.429 269.416C468.965 292.774 500.876 330.703 500.876 330.703L502.131 360.05L601.341 350.856L592.023 374.874C587.737 382.917 581.661 389.432 575.551 395.692C560.647 410.965 539.156 414.554 539.156 414.554C539.156 414.554 519.347 422.71 489.21 411.831C459.073 400.952 418.609 371.037 418.609 371.037C418.609 371.037 411.052 383.486 399.771 394.216C388.49 404.945 370.974 411.559 370.974 411.559C370.974 411.559 380.434 417.218 388.686 429.286C396.938 441.355 400.127 462.593 400.127 462.593L404.317 507.333C405.4 540.057 406.066 584.342 429.825 623.312C472.185 692.789 572.416 736.781 572.416 736.781C572.416 736.781 558.279 776.825 541.901 801.352C525.522 825.878 506.9 834.886 506.9 834.886C506.9 834.886 487.033 823.615 479.973 806.425C472.914 789.236 475.146 770.441 475.146 770.441C475.146 770.441 391.628 734.374 341.425 661.304C322.118 633.203 296.116 565.202 296.116 565.202C296.116 565.202 285.687 637.999 282.863 699.839C280.039 761.679 290.021 823.626 290.021 823.626C290.021 823.626 260.134 834.18 228.757 835.678C197.38 837.174 164.513 829.615 164.513 829.615C164.513 829.615 162.55 812.082 171.681 796.21C180.812 780.338 201.036 766.128 201.036 766.128C201.036 766.128 193.948 606.27 209.479 514.633C225.011 422.996 266.175 401.976 266.175 401.976C266.175 401.976 248.488 387.251 238.447 369.882C228.406 352.513 226.012 332.499 226.012 332.499C226.012 332.499 131.43 343.05 92.2083 311.456C52.9869 279.863 71.2847 205.31 71.2847 205.31Z" id="path_18" />
+    <path d="M51.9445 408.833L254.16 391.823C254.16 391.823 255.637 393.437 258.9 396.895C262.163 400.354 267.213 404.698 267.213 404.698C267.213 404.698 264.876 405.054 260.099 408.783C258.583 409.967 255.649 412.184 251.772 415.85C247.895 419.516 244.591 423.447 244.591 423.447L51.3391 433.988L51.9445 408.833Z" id="path_19" />
+    <path d="M49.7377 443.571L239.004 433.068C239.004 433.068 234.699 438.678 231.464 445.497C228.228 452.315 225.118 460.342 225.118 460.342L47.8417 471.003L49.7377 443.571Z" id="path_20" />
+    <path d="M46.8459 483.101L219.796 473.518L213.521 494.481L45.3398 510.053L46.8459 483.101Z" id="path_21" />
+    <path d="M71.5805 273.295C71.5805 273.295 74.5135 264.569 82.044 261.574C89.5744 258.58 100.901 261.79 100.901 261.79C100.901 261.79 110.746 267.045 115.767 275.13C120.787 283.216 120.983 294.132 120.983 294.132C120.983 294.132 120.426 305.18 113.837 310.421C107.248 315.661 100.801 315.405 100.801 315.405C100.801 315.405 88.7279 309.462 81.4228 298.934C74.1177 288.407 71.5805 273.295 71.5805 273.295Z" id="path_22" />
+    <path d="M217.37 245.67C217.37 245.67 237.441 241.442 255.64 239.345C273.839 237.249 293.237 237.87 293.237 237.87C293.237 237.87 296.249 246.886 288.875 253.624C281.502 260.362 263.743 264.822 263.743 264.822C263.743 264.822 241.104 266.423 230.279 261.781C219.454 257.139 217.37 245.67 217.37 245.67Z" id="path_23" />
+    <path d="M320.203 239.933C320.203 239.933 328.517 238.991 338.244 240.189C347.971 241.387 359.11 244.725 359.11 244.725C359.11 244.725 362.207 252.9 356.402 256.344C350.598 259.788 335.891 257.925 335.891 257.925C335.891 257.925 324.494 255.622 320.571 250.98C316.649 246.338 320.203 239.933 320.203 239.933Z" id="path_24" />
+    <path d="M393.17 253.691C393.17 253.691 408.042 257.728 423.417 266.712C438.791 275.696 458.213 289.958 458.213 289.958C458.213 289.958 453.119 299.961 441.353 300.41C429.586 300.86 408.035 291.294 408.035 291.294C408.035 291.294 392.56 279.621 388.951 270.187C385.343 260.754 393.17 253.691 393.17 253.691Z" id="path_25" />
+    <path d="M314.555 283.057C314.555 283.057 331.862 287.142 337.51 299.42C343.158 311.698 337.146 332.169 337.146 332.169C337.146 332.169 333.461 351.544 323.578 359.929C313.694 368.314 297.611 365.71 297.611 365.71C297.611 365.71 280.467 362.578 274.819 350.449C269.171 338.321 275.02 317.196 275.02 317.196C275.02 317.196 278.323 297.916 288.206 289.381C298.09 280.846 314.555 283.057 314.555 283.057Z" id="path_26" />
+    <path d="M284.885 341.518C284.994 338.543 287.61 336.215 290.727 336.319C293.844 336.423 296.283 338.919 296.174 341.894C296.066 344.87 293.45 347.197 290.333 347.093C287.215 346.989 284.777 344.493 284.885 341.518Z" id="path_27" />
+    <path d="M519.965 749.273C520.074 746.298 522.69 743.97 525.807 744.074C528.924 744.178 531.363 746.674 531.254 749.649C531.146 752.624 528.53 754.952 525.413 754.848C522.295 754.744 519.857 752.248 519.965 749.273Z" id="path_28" />
+    <path d="M245.966 787.606C246.075 784.63 248.691 782.303 251.808 782.406C254.925 782.51 257.364 785.007 257.255 787.982C257.146 790.957 254.531 793.285 251.414 793.181C248.296 793.077 245.857 790.581 245.966 787.606Z" id="path_29" />
+    <path d="M267.303 449.798C267.412 446.822 270.027 444.495 273.145 444.599C276.262 444.703 278.701 447.199 278.592 450.174C278.483 453.149 275.868 455.477 272.75 455.373C269.633 455.269 267.194 452.773 267.303 449.798Z" id="path_30" />
+    <path d="M329.671 255.281C326.91 257.796 316.836 278.972 315.581 285.68" id="path_31" />
+    <path d="M311.549 303.503C304.466 319.285 298.627 369.526 302.161 366.459" id="path_32" />
+    <path d="M293.248 303.115C291.14 304.936 303.156 340.643 329.631 313.316" id="path_33" />
+    <path d="M296.356 342.95L301.377 344.148" id="path_34" />
+    <path d="M278.785 449.561C281.094 448.794 303.104 448.037 315.855 455.991" id="path_35" />
+    <path d="M268.744 454.352C264.527 454.927 230.841 538.778 229.837 590.91" id="path_36" />
+    <path d="M319.856 448.694C323.433 465.284 328.988 556.171 328.988 556.171C328.988 556.171 339.594 609.896 347.814 622.054" id="path_37" />
+    <path d="M228.582 653.199C228.582 653.199 234.707 758.803 251.173 782.569" id="path_38" />
+    <path d="M384.38 666.016C379.962 673.682 463.801 732.761 522.439 743.877" id="path_39" />
+    <path d="M202.853 592.624C202.853 592.624 208.099 588.339 212.492 586.841C216.885 585.344 220.424 586.635 220.424 586.635C220.424 586.635 233.638 589.038 240.384 597.273C247.13 605.508 247.408 619.576 247.408 619.576C247.408 619.576 247.475 635.36 241.043 644.494C234.61 653.627 221.679 656.111 221.679 656.111C221.679 656.111 214.38 656.338 209.203 654.541C204.026 652.744 200.97 648.924 200.97 648.924L202.853 592.624Z" id="path_40" />
+    <path d="M324.219 626.367C324.219 626.367 337.937 617.95 351.963 621.334C365.988 624.718 374.799 635.83 374.799 635.83C374.799 635.83 381.701 644.375 383.584 653.509C385.466 662.643 382.329 672.365 382.329 672.365C382.329 672.365 378.592 679.511 373.572 683.703C368.552 687.896 365.511 688.896 365.511 688.896C365.511 688.896 351.055 673.944 341.484 659.57C331.914 645.195 324.219 626.367 324.219 626.367Z" id="path_41" />
+    <path d="M201.642 764.544L222.859 785.492C222.859 785.492 230.075 794.06 232.898 801.546C235.722 809.033 237.367 818.505 237.367 818.505C237.367 818.505 215.054 821.949 196.856 820.901C178.657 819.853 164.573 814.313 164.573 814.313C164.573 814.313 165.004 801.009 174.152 789.816C183.3 778.623 201.642 764.544 201.642 764.544Z" id="path_42" />
+    <path d="M165.828 813.714C165.828 813.714 187.789 821.883 217.598 820.985C247.406 820.086 287.618 808.278 287.618 808.278L289.626 823.895C289.626 823.895 256.183 836.767 221.149 834.779C186.115 832.791 165.2 829.575 165.2 829.575L165.828 813.714Z" id="path_43" />
+    <path d="M538.487 772.074C538.487 772.074 522.798 762.684 506.507 762.911C490.216 763.139 473.799 767.532 473.799 767.532C473.799 767.532 472.77 789.576 477.32 802.753C481.87 815.929 493.902 823.873 493.902 823.873C493.902 823.873 507.573 814.429 518.712 800.354C529.851 786.279 538.487 772.074 538.487 772.074Z" id="path_44" />
+    <path d="M558.668 729.862L572.474 737.05C572.474 737.05 562.805 763.972 546.645 793.222C530.486 822.471 506.885 833.602 506.885 833.602C506.885 833.602 502.237 831.486 499.197 829.179C496.156 826.871 494.723 824.37 494.723 824.37C494.723 824.37 514.972 810.189 531.288 786.381C547.604 762.574 558.668 729.862 558.668 729.862Z" id="path_45" />
+    <path d="M16.473 90.1996C16.473 90.1996 60.2502 104.047 76.7169 100.98" id="path_46" />
+    <path d="M131.94 117.152C131.94 108.221 139.526 100.98 148.884 100.98C158.241 100.98 165.827 108.221 165.827 117.152C165.827 126.083 158.241 133.323 148.884 133.323C139.526 133.323 131.94 126.083 131.94 117.152Z" id="path_47" />
+    <path d="M177.123 151.89C177.123 142.959 184.709 135.719 194.066 135.719C203.424 135.719 211.01 142.959 211.01 151.89C211.01 160.821 203.424 168.061 194.066 168.061C184.709 168.061 177.123 160.821 177.123 151.89Z" id="path_48" />
+    <path d="M72.1986 206.776C72.1986 206.776 73.3091 194.082 78.957 182.103C84.6049 170.125 91.7778 158.478 91.7778 158.478C91.7778 158.478 90.4887 147.754 92.9988 142.513C95.509 137.272 101.819 137.516 101.819 137.516C101.819 137.516 104.478 137.668 106.832 138.567C109.185 139.465 111.232 141.109 111.232 141.109C111.232 141.109 110.816 138.466 113.327 136.52C115.837 134.573 121.021 134.281 121.021 134.281C121.021 134.281 127.378 134.004 130.202 137.298C133.026 140.592 132.568 146.5 132.568 146.5C132.568 146.5 134.827 139.48 136.396 135.438C137.965 131.395 138.843 130.328 138.843 130.328C138.843 130.328 143.15 133.101 147.857 133.25C152.563 133.4 157.67 130.927 157.67 130.927C157.67 130.927 159.142 135.491 157.762 142.948C156.381 150.405 152.147 160.754 152.147 160.754C152.147 160.754 156.33 166.417 152.722 180.492C151.542 185.094 148.076 191.008 145.973 195.916L137.714 213.652C137.714 213.652 118.439 215.15 101.182 213.204C83.9242 211.257 72.1986 206.776 72.1986 206.776Z" id="path_49" />
+    <path d="M93.535 159.197C93.535 159.197 94.8903 170.42 99.4399 171.259C103.99 172.097 109.161 170.846 111.232 163.509C113.302 156.172 109.443 151.291 111.608 142.067" id="path_50" />
+    <path d="M110.604 160.874C110.604 160.874 116.879 178.602 125.665 165.665" id="path_51" />
+    <path d="M152.022 159.676C152.084 156.232 129.838 141.528 123.155 150.333C116.471 159.137 132.317 171.894 132.317 171.894C132.317 171.894 117.727 181.058 116.879 193.815" id="path_52" />
+    <path d="M569.908 77.565C569.908 62.2995 582.664 49.9244 598.4 49.9244C614.136 49.9244 626.892 62.2995 626.892 77.565C626.892 92.8304 614.136 105.206 598.4 105.206C582.664 105.206 569.908 92.8304 569.908 77.565Z" id="path_53" />
+    <path d="M579.066 77.3743C579.066 67.8992 587.495 60.2181 597.891 60.2181C608.288 60.2181 616.716 67.8992 616.716 77.3743C616.716 86.8495 608.288 94.5306 597.891 94.5306C587.495 94.5306 579.066 86.8495 579.066 77.3743Z" id="path_54" />
+    <path d="M610.326 82.9026C611.69 84.0891 625.589 95.7697 625.589 95.7697" id="path_55" />
+    <path d="M617.734 66.89L630.962 59.265" id="path_56" />
+    <path d="M574.996 79.5253L558.715 78.3275" id="path_57" />
+    <path d="M322.207 311.278C322.316 308.303 324.931 305.975 328.048 306.079C331.166 306.183 333.605 308.679 333.496 311.654C333.387 314.63 330.771 316.957 327.654 316.853C324.537 316.75 322.098 314.253 322.207 311.278Z" id="path_58" />
+    <path d="M290.067 303.838C290.175 300.863 292.791 298.535 295.908 298.639C299.026 298.743 301.464 301.239 301.356 304.215C301.247 307.19 298.631 309.518 295.514 309.414C292.397 309.31 289.958 306.814 290.067 303.838Z" id="path_59" />
+    <path d="M307.466 300.06C307.575 297.085 310.19 294.757 313.308 294.861C316.425 294.965 318.864 297.461 318.755 300.437C318.646 303.412 316.031 305.74 312.913 305.636C309.796 305.532 307.357 303.036 307.466 300.06Z" id="path_60" />
+    <path d="M316.252 458.553C316.361 455.578 318.976 453.25 322.093 453.354C325.211 453.458 327.65 455.954 327.541 458.929C327.432 461.904 324.817 464.232 321.699 464.128C318.582 464.024 316.143 461.528 316.252 458.553Z" id="path_61" />
+    <path d="M513.768 417.79C513.768 417.79 531.971 416.905 545.15 413.012C558.328 409.119 567.705 401.701 567.705 401.701C567.705 401.701 565.694 384.935 557.643 379.359C549.591 373.783 533.993 375.563 533.993 375.563C533.993 375.563 517.165 383.106 511.988 392.239C506.811 401.373 513.768 417.79 513.768 417.79Z" id="path_62" />
+    <rect width="801.99994" height="908.99994" id="artboard_1" />
+    <clipPath id="clip_1">
+      <use xlink:href="#artboard_1" clip-rule="evenodd" />
+    </clipPath>
+    <clipPath id="clip_2">
+      <use xlink:href="#path_1" />
+    </clipPath>
+    <clipPath id="clip_3">
+      <use xlink:href="#path_2" />
+    </clipPath>
+    <clipPath id="clip_4">
+      <use xlink:href="#path_3" />
+    </clipPath>
+    <clipPath id="clip_5">
+      <use xlink:href="#path_4" />
+    </clipPath>
+    <clipPath id="clip_6">
+      <use xlink:href="#path_5" />
+    </clipPath>
+    <clipPath id="clip_7">
+      <use xlink:href="#path_6" />
+    </clipPath>
+    <clipPath id="clip_8">
+      <use xlink:href="#path_7" />
+    </clipPath>
+    <clipPath id="clip_9">
+      <use xlink:href="#path_8" />
+    </clipPath>
+    <clipPath id="clip_10">
+      <use xlink:href="#path_9" />
+    </clipPath>
+    <clipPath id="clip_11">
+      <use xlink:href="#path_10" />
+    </clipPath>
+    <clipPath id="clip_12">
+      <use xlink:href="#path_11" />
+    </clipPath>
+    <clipPath id="clip_13">
+      <use xlink:href="#path_12" />
+    </clipPath>
+    <clipPath id="clip_14">
+      <use xlink:href="#path_13" />
+    </clipPath>
+    <clipPath id="clip_15">
+      <use xlink:href="#path_14" />
+    </clipPath>
+    <clipPath id="clip_16">
+      <use xlink:href="#path_15" />
+    </clipPath>
+    <clipPath id="clip_17">
+      <use xlink:href="#path_16" />
+    </clipPath>
+    <clipPath id="clip_18">
+      <use xlink:href="#path_17" />
+    </clipPath>
+    <clipPath id="clip_19">
+      <use xlink:href="#path_18" />
+    </clipPath>
+    <clipPath id="clip_20">
+      <use xlink:href="#path_19" />
+    </clipPath>
+    <clipPath id="clip_21">
+      <use xlink:href="#path_20" />
+    </clipPath>
+    <clipPath id="clip_22">
+      <use xlink:href="#path_21" />
+    </clipPath>
+    <clipPath id="clip_23">
+      <use xlink:href="#path_22" />
+    </clipPath>
+    <clipPath id="clip_24">
+      <use xlink:href="#path_23" />
+    </clipPath>
+    <clipPath id="clip_25">
+      <use xlink:href="#path_24" />
+    </clipPath>
+    <clipPath id="clip_26">
+      <use xlink:href="#path_25" />
+    </clipPath>
+    <clipPath id="clip_27">
+      <use xlink:href="#path_26" />
+    </clipPath>
+    <clipPath id="clip_28">
+      <use xlink:href="#path_27" />
+    </clipPath>
+    <clipPath id="clip_29">
+      <use xlink:href="#path_28" />
+    </clipPath>
+    <clipPath id="clip_30">
+      <use xlink:href="#path_29" />
+    </clipPath>
+    <clipPath id="clip_31">
+      <use xlink:href="#path_30" />
+    </clipPath>
+    <clipPath id="clip_32">
+      <use xlink:href="#path_31" />
+    </clipPath>
+    <clipPath id="clip_33">
+      <use xlink:href="#path_32" />
+    </clipPath>
+    <clipPath id="clip_34">
+      <use xlink:href="#path_33" />
+    </clipPath>
+    <clipPath id="clip_35">
+      <use xlink:href="#path_34" />
+    </clipPath>
+    <clipPath id="clip_36">
+      <use xlink:href="#path_35" />
+    </clipPath>
+    <clipPath id="clip_37">
+      <use xlink:href="#path_36" />
+    </clipPath>
+    <clipPath id="clip_38">
+      <use xlink:href="#path_37" />
+    </clipPath>
+    <clipPath id="clip_39">
+      <use xlink:href="#path_38" />
+    </clipPath>
+    <clipPath id="clip_40">
+      <use xlink:href="#path_39" />
+    </clipPath>
+    <clipPath id="clip_41">
+      <use xlink:href="#path_40" />
+    </clipPath>
+    <clipPath id="clip_42">
+      <use xlink:href="#path_41" />
+    </clipPath>
+    <clipPath id="clip_43">
+      <use xlink:href="#path_42" />
+    </clipPath>
+    <clipPath id="clip_44">
+      <use xlink:href="#path_43" />
+    </clipPath>
+    <clipPath id="clip_45">
+      <use xlink:href="#path_44" />
+    </clipPath>
+    <clipPath id="clip_46">
+      <use xlink:href="#path_45" />
+    </clipPath>
+    <clipPath id="clip_47">
+      <use xlink:href="#path_46" />
+    </clipPath>
+    <clipPath id="clip_48">
+      <use xlink:href="#path_47" />
+    </clipPath>
+    <clipPath id="clip_49">
+      <use xlink:href="#path_48" />
+    </clipPath>
+    <clipPath id="clip_50">
+      <use xlink:href="#path_49" />
+    </clipPath>
+    <clipPath id="clip_51">
+      <use xlink:href="#path_50" />
+    </clipPath>
+    <clipPath id="clip_52">
+      <use xlink:href="#path_51" />
+    </clipPath>
+    <clipPath id="clip_53">
+      <use xlink:href="#path_52" />
+    </clipPath>
+    <clipPath id="clip_54">
+      <use xlink:href="#path_53" />
+    </clipPath>
+    <clipPath id="clip_55">
+      <use xlink:href="#path_54" />
+    </clipPath>
+    <clipPath id="clip_56">
+      <use xlink:href="#path_55" />
+    </clipPath>
+    <clipPath id="clip_57">
+      <use xlink:href="#path_56" />
+    </clipPath>
+    <clipPath id="clip_58">
+      <use xlink:href="#path_57" />
+    </clipPath>
+    <clipPath id="clip_59">
+      <use xlink:href="#path_58" />
+    </clipPath>
+    <clipPath id="clip_60">
+      <use xlink:href="#path_59" />
+    </clipPath>
+    <clipPath id="clip_61">
+      <use xlink:href="#path_60" />
+    </clipPath>
+    <clipPath id="clip_62">
+      <use xlink:href="#path_61" />
+    </clipPath>
+    <clipPath id="clip_63">
+      <use xlink:href="#path_62" />
+    </clipPath>
+  </defs>
+  <g id="Artboard" clip-path="url(#clip_1)">
+    <use xlink:href="#artboard_1" stroke="none" fill="#000000" fill-opacity="0" />
+    <g id="Group" transform="translate(48.875 31.700104)" artboard="d237a008-f1f0-41dc-ab05-47375467e67b">
+      <g id="Vector">
+        <use stroke="none" fill="#BADCEE" xlink:href="#path_1" fill-rule="evenodd" />
+        <g clip-path="url(#clip_2)">
+          <use xlink:href="#path_1" fill="none" stroke="#464646" stroke-width="2" />
+        </g>
+      </g>
+      <g id="Vector-44">
+        <g clip-path="url(#clip_3)">
+          <use xlink:href="#path_2" fill="none" stroke="#FFFFFF" stroke-width="40" />
+        </g>
+      </g>
+      <g id="Vector-45">
+        <g clip-path="url(#clip_4)">
+          <use xlink:href="#path_3" fill="none" stroke="#FFFFFF" stroke-width="28" />
+        </g>
+      </g>
+      <g id="Vector-2">
+        <use stroke="none" fill="#6ECFEA" xlink:href="#path_4" fill-rule="evenodd" />
+        <g clip-path="url(#clip_5)">
+          <use xlink:href="#path_4" fill="none" stroke="#5C5C5C" stroke-width="2" />
+        </g>
+      </g>
+      <g id="Vector-3">
+        <use stroke="none" fill="#6ECFEA" xlink:href="#path_5" fill-rule="evenodd" />
+        <g clip-path="url(#clip_6)">
+          <use xlink:href="#path_5" fill="none" stroke="#414141" stroke-opacity="0.65882355" stroke-width="4" />
+        </g>
+      </g>
+      <g id="Vector-4">
+        <use stroke="none" fill="#BADCEE" xlink:href="#path_6" fill-rule="evenodd" />
+        <g clip-path="url(#clip_7)">
+          <use xlink:href="#path_6" fill="none" stroke="#000000" stroke-opacity="0.67058825" stroke-width="2" />
+        </g>
+      </g>
+      <g id="Vector-5">
+        <use stroke="none" fill="#BADCEE" xlink:href="#path_7" fill-rule="evenodd" />
+        <g clip-path="url(#clip_8)">
+          <use xlink:href="#path_7" fill="none" stroke="#1C1B1B" stroke-opacity="0.23137255" stroke-width="5" />
+        </g>
+      </g>
+      <g id="Vector-6">
+        <use stroke="none" fill="#6ECFEA" xlink:href="#path_8" fill-rule="evenodd" />
+        <g clip-path="url(#clip_9)">
+          <use xlink:href="#path_8" fill="none" stroke="#4D4D4D" stroke-width="2" />
+        </g>
+      </g>
+      <g id="Vector-7">
+        <use stroke="none" fill="#E3E3F1" xlink:href="#path_9" fill-rule="evenodd" />
+        <g clip-path="url(#clip_10)">
+          <use xlink:href="#path_9" fill="none" stroke="#2D2D2D" stroke-width="2" />
+        </g>
+      </g>
+      <g id="Vector-8">
+        <g clip-path="url(#clip_11)">
+          <use xlink:href="#path_10" fill="none" stroke="#262626" stroke-opacity="0.70980394" stroke-width="3" />
+        </g>
+      </g>
+      <g id="Vector-9">
+        <use stroke="none" fill="#FFFFFF" xlink:href="#path_11" fill-rule="evenodd" />
+        <g clip-path="url(#clip_12)">
+          <use xlink:href="#path_11" fill="none" stroke="#000000" stroke-opacity="0.8392157" stroke-width="2.4" />
+        </g>
+      </g>
+      <g id="Vector-10">
+        <use stroke="none" fill="#738F9D" xlink:href="#path_12" fill-rule="evenodd" />
+        <g clip-path="url(#clip_13)">
+          <use xlink:href="#path_12" fill="none" stroke="#000000" stroke-width="2" />
+        </g>
+      </g>
+      <g id="Vector-11">
+        <use stroke="none" fill="#738F9D" xlink:href="#path_13" fill-rule="evenodd" />
+        <g clip-path="url(#clip_14)">
+          <use xlink:href="#path_13" fill="none" stroke="#242525" stroke-width="2" />
+        </g>
+      </g>
+      <path d="M358.981 163.59C359.937 160.41 362.602 158.35 364.934 158.988C367.266 159.627 368.382 162.722 367.427 165.902C366.471 169.081 363.806 171.142 361.474 170.503C359.142 169.865 358.026 166.77 358.981 163.59Z" id="Oval" fill="#002C38" fill-rule="evenodd" stroke="none" />
+      <path d="M367.125 175.557C370.824 174.677 374.298 175.785 374.885 178.031C375.472 180.278 372.949 182.813 369.25 183.693C365.551 184.574 362.076 183.466 361.489 181.219C360.902 178.972 363.425 176.437 367.125 175.557Z" id="Oval-Copy-2" fill="#023A49" fill-opacity="0.49803922" fill-rule="evenodd" stroke="none" />
+      <path d="M317.735 167.263C314.036 166.383 310.561 167.491 309.974 169.738C309.387 171.984 311.91 174.519 315.609 175.4C319.309 176.28 322.783 175.172 323.37 172.925C323.957 170.679 321.434 168.144 317.735 167.263Z" id="Oval-Copy-3" fill="#023A49" fill-opacity="0.47058824" fill-rule="evenodd" stroke="none" />
+      <path d="M320.361 158.833C320.47 155.858 322.243 153.502 324.321 153.571C326.399 153.64 327.996 156.108 327.887 159.084C327.778 162.059 326.005 164.415 323.927 164.345C321.848 164.276 320.252 161.808 320.361 158.833Z" id="Oval-Copy" fill="#002C38" fill-rule="evenodd" stroke="none" />
+      <g id="Oval-2">
+        <use stroke="none" fill="#FFFFFF" xlink:href="#path_14" fill-rule="evenodd" />
+        <g clip-path="url(#clip_15)">
+          <use xlink:href="#path_14" fill="none" stroke="#000000" stroke-opacity="0.67058825" stroke-width="2" />
+        </g>
+      </g>
+      <g id="Vector-12">
+        <g clip-path="url(#clip_16)">
+          <use xlink:href="#path_15" fill="none" stroke="#808080" stroke-width="2" />
+        </g>
+      </g>
+      <g id="Vector-13">
+        <use stroke="none" fill="#002C38" xlink:href="#path_16" fill-rule="evenodd" />
+        <g clip-path="url(#clip_17)">
+          <use xlink:href="#path_16" fill="none" stroke="#204651" stroke-width="2" />
+        </g>
+      </g>
+      <g id="Vector-14">
+        <use stroke="none" fill="#E3E3F1" xlink:href="#path_17" fill-rule="evenodd" />
+        <g clip-path="url(#clip_18)">
+          <use xlink:href="#path_17" fill="none" stroke="#808080" stroke-width="2" />
+        </g>
+      </g>
+      <g id="Vector-15">
+        <use stroke="none" fill="#E3E3F1" xlink:href="#path_18" fill-rule="evenodd" />
+        <g clip-path="url(#clip_19)">
+          <use xlink:href="#path_18" fill="none" stroke="#000000" stroke-opacity="0.81960785" stroke-width="2" />
+        </g>
+      </g>
+      <g id="Vector-16">
+        <use stroke="none" fill="#49809C" xlink:href="#path_19" fill-rule="evenodd" />
+        <g clip-path="url(#clip_20)">
+          <use xlink:href="#path_19" fill="none" stroke="#000000" stroke-opacity="0.7490196" stroke-width="2" />
+        </g>
+      </g>
+      <g id="Vector-17">
+        <use stroke="none" fill="#49809C" xlink:href="#path_20" fill-rule="evenodd" />
+        <g clip-path="url(#clip_21)">
+          <use xlink:href="#path_20" fill="none" stroke="#000000" stroke-opacity="0.7490196" stroke-width="2" />
+        </g>
+      </g>
+      <g id="Vector-18">
+        <use stroke="none" fill="#49809C" xlink:href="#path_21" fill-rule="evenodd" />
+        <g clip-path="url(#clip_22)">
+          <use xlink:href="#path_21" fill="none" stroke="#000000" stroke-opacity="0.8" stroke-width="2" />
+        </g>
+      </g>
+      <g id="Vector-19">
+        <use stroke="none" fill="#FFFFFF" xlink:href="#path_22" fill-rule="evenodd" />
+        <g clip-path="url(#clip_23)">
+          <use xlink:href="#path_22" fill="none" stroke="#000000" stroke-opacity="0.5803922" stroke-width="3" />
+        </g>
+      </g>
+      <g id="Vector-20">
+        <use stroke="none" fill="#FFFFFF" xlink:href="#path_23" fill-rule="evenodd" />
+        <g clip-path="url(#clip_24)">
+          <use xlink:href="#path_23" fill="none" stroke="#1B1B1B" stroke-opacity="0.69803923" stroke-width="3" />
+        </g>
+      </g>
+      <g id="Vector-21">
+        <use stroke="none" fill="#002C38" xlink:href="#path_24" fill-rule="evenodd" />
+        <g clip-path="url(#clip_25)">
+          <use xlink:href="#path_24" fill="none" stroke="#49809C" stroke-width="2" />
+        </g>
+      </g>
+      <g id="Vector-22">
+        <use stroke="none" fill="#FFFFFF" xlink:href="#path_25" fill-rule="evenodd" />
+        <g clip-path="url(#clip_26)">
+          <use xlink:href="#path_25" fill="none" stroke="#080808" stroke-opacity="0.6" stroke-width="2.4" />
+        </g>
+      </g>
+      <g id="Vector-24">
+        <use stroke="none" fill="#B2B0F7" xlink:href="#path_26" fill-rule="evenodd" />
+        <g clip-path="url(#clip_27)">
+          <use xlink:href="#path_26" fill="none" stroke="#000000" stroke-opacity="0.56078434" stroke-width="3" />
+        </g>
+      </g>
+      <g id="Oval-4-Copy-3">
+        <use stroke="none" fill="#FFFFFF" xlink:href="#path_27" fill-rule="evenodd" />
+        <g clip-path="url(#clip_28)">
+          <use xlink:href="#path_27" fill="none" stroke="#000000" stroke-width="2" />
+        </g>
+      </g>
+      <g id="Oval-4-Copy-6">
+        <use stroke="none" fill="#FFFFFF" xlink:href="#path_28" fill-rule="evenodd" />
+        <g clip-path="url(#clip_29)">
+          <use xlink:href="#path_28" fill="none" stroke="#000000" stroke-width="2" />
+        </g>
+      </g>
+      <g id="Oval-4-Copy-7">
+        <use stroke="none" fill="#FFFFFF" xlink:href="#path_29" fill-rule="evenodd" />
+        <g clip-path="url(#clip_30)">
+          <use xlink:href="#path_29" fill="none" stroke="#000000" stroke-width="2" />
+        </g>
+      </g>
+      <g id="Oval-4-Copy-5">
+        <use stroke="none" fill="#FFFFFF" xlink:href="#path_30" fill-rule="evenodd" />
+        <g clip-path="url(#clip_31)">
+          <use xlink:href="#path_30" fill="none" stroke="#000000" stroke-width="2" />
+        </g>
+      </g>
+      <g id="Vector-27">
+        <g clip-path="url(#clip_32)">
+          <use xlink:href="#path_31" fill="none" stroke="#222222" stroke-opacity="0.78039217" stroke-width="38" />
+        </g>
+      </g>
+      <g id="Vector-28">
+        <g clip-path="url(#clip_33)">
+          <use xlink:href="#path_32" fill="none" stroke="#000000" stroke-width="2" />
+        </g>
+      </g>
+      <g id="Vector-29">
+        <g clip-path="url(#clip_34)">
+          <use xlink:href="#path_33" fill="none" stroke="#000000" stroke-width="2" />
+        </g>
+      </g>
+      <g id="Vector-30">
+        <g clip-path="url(#clip_35)">
+          <use xlink:href="#path_34" fill="none" stroke="#808080" stroke-width="2" />
+        </g>
+      </g>
+      <g id="Vector-31">
+        <g clip-path="url(#clip_36)">
+          <use xlink:href="#path_35" fill="none" stroke="#000000" stroke-opacity="0.5803922" stroke-width="5" />
+        </g>
+      </g>
+      <g id="Vector-32">
+        <g clip-path="url(#clip_37)">
+          <use xlink:href="#path_36" fill="none" stroke="#151515" stroke-opacity="0.5882353" stroke-width="3" />
+        </g>
+      </g>
+      <g id="Vector-33">
+        <g clip-path="url(#clip_38)">
+          <use xlink:href="#path_37" fill="none" stroke="#000000" stroke-opacity="0.6" stroke-width="3" />
+        </g>
+      </g>
+      <g id="Vector-34">
+        <g clip-path="url(#clip_39)">
+          <use xlink:href="#path_38" fill="none" stroke="#000000" stroke-opacity="0.5803922" stroke-width="3" />
+        </g>
+      </g>
+      <g id="Vector-35">
+        <g clip-path="url(#clip_40)">
+          <use xlink:href="#path_39" fill="none" stroke="#000000" stroke-opacity="0.54901963" stroke-width="3" />
+        </g>
+      </g>
+      <g id="Vector-36">
+        <use stroke="none" fill="#FFFFFF" xlink:href="#path_40" fill-rule="evenodd" />
+        <g clip-path="url(#clip_41)">
+          <use xlink:href="#path_40" fill="none" stroke="#000000" stroke-opacity="0.5803922" stroke-width="3" />
+        </g>
+      </g>
+      <g id="Vector-37">
+        <use stroke="none" fill="#FFFFFF" xlink:href="#path_41" fill-rule="evenodd" />
+        <g clip-path="url(#clip_42)">
+          <use xlink:href="#path_41" fill="none" stroke="#000000" stroke-opacity="0.54901963" stroke-width="3" />
+        </g>
+      </g>
+      <g id="Vector-38">
+        <use stroke="none" fill="#FFFFFF" xlink:href="#path_42" fill-rule="evenodd" />
+        <g clip-path="url(#clip_43)">
+          <use xlink:href="#path_42" fill="none" stroke="#1B1B1B" stroke-opacity="0.5803922" stroke-width="3" />
+        </g>
+      </g>
+      <g id="Vector-39">
+        <g clip-path="url(#clip_44)">
+          <use xlink:href="#path_43" fill="none" stroke="#808080" stroke-width="1" />
+        </g>
+      </g>
+      <g id="Vector-40">
+        <use stroke="none" fill="#FFFFFF" xlink:href="#path_44" fill-rule="evenodd" />
+        <g clip-path="url(#clip_45)">
+          <use xlink:href="#path_44" fill="none" stroke="#1C1C1C" stroke-opacity="0.61960787" stroke-width="3" />
+        </g>
+      </g>
+      <g id="Vector-41">
+        <g clip-path="url(#clip_46)">
+          <use xlink:href="#path_45" fill="none" stroke="#808080" stroke-width="1" />
+        </g>
+      </g>
+      <path d="M219.796 840.881C219.796 840.881 247.427 848.358 335.91 847.459C381.243 846.999 449 848.121 498.039 845.735L573.83 837.671C573.83 837.671 576.508 833.248 564.584 830.553C552.661 827.858 527.643 821.14 527.643 821.14C527.643 821.14 522.657 827.801 517.278 832.491C511.898 837.182 506.125 839.903 506.125 839.903L484.97 822.338L287.771 823.033L288.058 827.134C288.058 827.134 275.62 832.407 258.394 835.455C241.168 838.504 219.796 840.881 219.796 840.881Z" id="Vector-42" fill="#DADAE7" fill-rule="evenodd" stroke="none" />
+      <g id="Vector-43">
+        <g clip-path="url(#clip_47)">
+          <use xlink:href="#path_46" fill="none" stroke="#FFFFFF" stroke-width="30" />
+        </g>
+      </g>
+      <path d="M136.961 117.152C136.961 110.867 142.299 105.772 148.884 105.772C155.469 105.772 160.807 110.867 160.807 117.152C160.807 123.437 155.469 128.531 148.884 128.531C142.299 128.531 136.961 123.437 136.961 117.152Z" id="Oval-8" fill="#FFFFFF" fill-rule="evenodd" stroke="none" />
+      <g id="Oval-11">
+        <use stroke="none" fill="#D3D3D3" fill-opacity="0" xlink:href="#path_47" fill-rule="evenodd" />
+        <g clip-path="url(#clip_48)">
+          <use xlink:href="#path_47" fill="none" stroke="#FFFFFF" stroke-width="2" />
+        </g>
+      </g>
+      <g id="Oval-11-Copy">
+        <use stroke="none" fill="#D3D3D3" fill-opacity="0" xlink:href="#path_48" fill-rule="evenodd" />
+        <g clip-path="url(#clip_49)">
+          <use xlink:href="#path_48" fill="none" stroke="#FFFFFF" stroke-width="2" />
+        </g>
+      </g>
+      <path d="M187.164 151.291C187.164 147.322 190.255 144.104 194.067 144.104C197.88 144.104 200.97 147.322 200.97 151.291C200.97 155.26 197.88 158.478 194.067 158.478C190.255 158.478 187.164 155.26 187.164 151.291Z" id="Oval-9" fill="#FFFFFF" fill-rule="evenodd" stroke="none" />
+      <path d="M173.912 187.359C173.489 182.746 176.785 178.702 181.273 178.327C185.762 177.952 189.743 181.389 190.166 186.002C190.589 190.615 187.293 194.659 182.805 195.034C178.316 195.409 174.335 191.973 173.912 187.359Z" id="Oval-10" fill="#FFFFFF" fill-rule="evenodd" stroke="none" />
+      <g id="Vector-46">
+        <g clip-path="url(#clip_50)">
+          <use xlink:href="#path_49" fill="none" stroke="#FFFFFF" stroke-width="2" />
+        </g>
+      </g>
+      <g id="Vector-47">
+        <g clip-path="url(#clip_51)">
+          <use xlink:href="#path_50" fill="none" stroke="#FFFFFF" stroke-width="2" />
+        </g>
+      </g>
+      <g id="Vector-48">
+        <g clip-path="url(#clip_52)">
+          <use xlink:href="#path_51" fill="none" stroke="#FFFFFF" stroke-width="2" />
+        </g>
+      </g>
+      <g id="Vector-49">
+        <g clip-path="url(#clip_53)">
+          <use xlink:href="#path_52" fill="none" stroke="#FFFFFF" stroke-width="2" />
+        </g>
+      </g>
+      <g id="Oval-12">
+        <use stroke="none" fill="#D3D3D3" fill-opacity="0" xlink:href="#path_53" fill-rule="evenodd" />
+        <g clip-path="url(#clip_54)">
+          <use xlink:href="#path_53" fill="none" stroke="#6ECFEA" stroke-width="2" />
+        </g>
+      </g>
+      <g id="Oval-12-Copy">
+        <use stroke="none" fill="#6ECFEA" xlink:href="#path_54" fill-rule="evenodd" />
+        <g clip-path="url(#clip_55)">
+          <use xlink:href="#path_54" fill="none" stroke="#808080" stroke-width="2" />
+        </g>
+      </g>
+      <g id="Vector-51">
+        <g clip-path="url(#clip_56)">
+          <use xlink:href="#path_55" fill="none" stroke="#808080" stroke-width="2" />
+        </g>
+      </g>
+      <g id="Vector-52">
+        <g clip-path="url(#clip_57)">
+          <use xlink:href="#path_56" fill="none" stroke="#808080" stroke-width="2" />
+        </g>
+      </g>
+      <g id="Vector-53">
+        <g clip-path="url(#clip_58)">
+          <use xlink:href="#path_57" fill="none" stroke="#808080" stroke-width="2" />
+        </g>
+      </g>
+      <path d="M499.78 333.76C499.78 333.76 504.309 334.773 509.016 337.468C513.722 340.163 521.176 340.401 521.176 340.401C521.176 340.401 532.501 338.826 533.329 318.059C534.158 297.291 523.687 264.384 523.687 264.384C523.687 264.384 522.467 258.102 525.381 256.093C528.296 254.084 532.5 255.989 534.381 256.502C538.774 257.7 541.74 262.276 541.74 262.276C541.74 262.276 536.407 249.759 536.564 241.823C536.72 233.888 540.439 230.226 540.439 230.226C540.439 230.226 544.808 228.841 548.033 229.969C551.259 231.098 553.984 234.586 553.984 234.586C553.984 234.586 555.113 228.838 558.094 226.741C561.075 224.645 565.425 224.974 565.425 224.974C565.425 224.974 569.006 225.885 571.673 229.029C574.34 232.174 576.576 238.165 576.576 238.165C576.576 238.165 579.169 234.177 582.621 233.877C586.072 233.578 589.418 235.741 589.418 235.741C589.418 235.741 593.899 241.184 597.058 252.962C600.217 264.74 600.464 271.927 601.427 283.752C602.572 297.813 603.304 308.011 602.655 324.907C602.006 341.803 599.313 352.256 599.313 352.256L500.407 362.663L499.78 333.76Z" id="Vector-54" fill="#6ECFEA" fill-rule="evenodd" stroke="#FFFFFF" stroke-width="1" />
+      <path d="M532.312 305.816C540.987 311.336 592.154 312.955 602.596 302.223" id="Vector-55" fill="none" fill-rule="evenodd" stroke="#FFFFFF" stroke-width="1" />
+      <path d="M541.097 261.495L551.007 273.934C551.007 273.934 570.127 277.532 573.232 284.81" id="Vector-56" fill="none" fill-rule="evenodd" stroke="#FFFFFF" stroke-width="1" />
+      <path d="M554.451 235.295C554.451 235.295 561.339 247.293 560.054 258.486" id="Vector-57" fill="none" fill-rule="evenodd" stroke="#FFFFFF" stroke-width="1" />
+      <path d="M576.843 238.304C576.843 238.304 580.196 252.142 578.911 263.335" id="Vector-57-Copy" fill="none" fill-rule="evenodd" stroke="#FFFFFF" stroke-width="1" />
+      <path d="M550.977 258.821C562.705 255.908 589.383 268.124 588.79 268.682" id="Vector-58" fill="none" fill-rule="evenodd" stroke="#FFFFFF" stroke-width="1" />
+      <path d="M582.766 308.979C587.384 325.27 577.575 355.753 577.575 355.753" id="Vector-59" fill="none" fill-rule="evenodd" stroke="#FFFFFF" stroke-width="1" />
+      <path d="M622.678 221.965C623.699 217.261 643.122 220.639 661.949 216.716C680.775 212.793 696.781 204.524 697.983 206.273C699.185 208.023 702.278 305.14 700.493 309.003C698.708 312.865 626.958 329.872 624.172 325.985C621.385 322.098 621.656 226.669 622.678 221.965Z" id="Vector-60" fill="none" fill-rule="evenodd" stroke="#FFFFFF" stroke-width="1" />
+      <path d="M632.718 235.142C632.718 235.142 652.108 236.6 667.169 233.007C682.23 229.413 692.962 220.767 692.962 220.767L693.589 259.099C693.589 259.099 684.929 266.626 669.868 270.37C654.807 274.113 633.346 274.073 633.346 274.073L632.718 235.142Z" id="Vector-61" fill="none" fill-rule="evenodd" stroke="#FFFFFF" stroke-width="1" />
+      <path d="M638.993 302.223C638.993 302.223 675.29 303.756 694.368 289.956" id="Vector-62" fill="none" fill-rule="evenodd" stroke="#FFFFFF" stroke-width="1" />
+      <path d="M398.018 47.0762L445.159 47.9226" id="Vector-63" fill="none" fill-rule="evenodd" stroke="#808080" stroke-width="1" />
+      <path d="M409.314 60.6042L456.454 61.4506" id="Vector-63-Copy" fill="none" fill-rule="evenodd" stroke="#808080" stroke-width="1" />
+      <path d="M420.609 74.1322L467.75 74.9787" id="Vector-63-Copy-2" fill="none" fill-rule="evenodd" stroke="#808080" stroke-width="1" />
+      <path d="M115.624 302.223C115.624 302.223 156.288 329.055 227.076 317.555" id="Vector-65" fill="none" fill-rule="evenodd" stroke="#000000" stroke-opacity="0.5686275" stroke-width="1.5" />
+      <path d="M73.5495 204.66C73.5495 204.66 56.4646 281.09 105.445 305.797C154.425 330.504 228.582 318.781 228.582 318.781L226.962 329.27C226.962 329.27 118.889 340.744 87.5161 304.098C56.1436 267.453 73.5495 204.66 73.5495 204.66Z" id="Vector" fill="#CBC8FF" fill-opacity="0.7294118" fill-rule="evenodd" stroke="none" />
+      <g id="Oval-4-Copy-2">
+        <use stroke="none" fill="#FFFFFF" xlink:href="#path_58" fill-rule="evenodd" />
+        <g clip-path="url(#clip_59)">
+          <use xlink:href="#path_58" fill="none" stroke="#000000" stroke-width="2" />
+        </g>
+      </g>
+      <g id="Oval-4">
+        <use stroke="none" fill="#FFFFFF" xlink:href="#path_59" fill-rule="evenodd" />
+        <g clip-path="url(#clip_60)">
+          <use xlink:href="#path_59" fill="none" stroke="#000000" stroke-width="2" />
+        </g>
+      </g>
+      <g id="Oval-4-Copy">
+        <use stroke="none" fill="#FFFFFF" xlink:href="#path_60" fill-rule="evenodd" />
+        <g clip-path="url(#clip_61)">
+          <use xlink:href="#path_60" fill="none" stroke="#000000" stroke-width="2" />
+        </g>
+      </g>
+      <path d="M228.352 310.498L225.861 332.199" id="Vector-69" fill="none" fill-rule="evenodd" stroke="#808080" stroke-width="1" />
+      <path d="M425.326 347.473C477.296 391.303 511.5 391.508 518.837 391.804" id="Vector-70" fill="none" fill-rule="evenodd" stroke="#000000" stroke-opacity="0.5294118" stroke-width="1.5" />
+      <path d="M562.171 385.352C572.054 377.206 578.133 354.171 578.133 354.171" id="Vector-71" fill="none" fill-rule="evenodd" stroke="#000000" stroke-opacity="0.5411765" stroke-width="1.5" />
+      <g id="Oval-4-Copy-4">
+        <use stroke="none" fill="#FFFFFF" xlink:href="#path_61" fill-rule="evenodd" />
+        <g clip-path="url(#clip_62)">
+          <use xlink:href="#path_61" fill="none" stroke="#000000" stroke-width="2" />
+        </g>
+      </g>
+      <path d="M272.14 480.657C279.133 486.272 288.928 504.538 288.928 504.538C288.928 504.538 292.764 575.24 300.121 570.298" id="Vector" fill="none" fill-rule="evenodd" stroke="#000000" stroke-width="1" />
+      <path d="M267.238 401.646C267.238 401.646 289.808 421.295 368.965 411.326" id="Vector-72" fill="none" fill-rule="evenodd" stroke="#000000" stroke-width="1" />
+      <g id="Vector-23">
+        <use stroke="none" fill="#FFFFFF" xlink:href="#path_62" fill-rule="evenodd" />
+        <g clip-path="url(#clip_63)">
+          <use xlink:href="#path_62" fill="none" stroke="#020202" stroke-opacity="0.5294118" stroke-width="3" />
+        </g>
+      </g>
+      <path d="M233.978 351.25C233.978 351.25 271.459 403.886 314.446 402.988C334.145 402.576 356.679 394.091 376.725 380.797C396.771 367.503 405.675 345.979 405.675 345.979C405.675 345.979 409.427 341.685 415.671 339.739C421.915 337.792 429.395 338.193 429.395 338.193C429.395 338.193 426.665 359.338 411.551 378.709C396.438 398.081 366.844 420.03 323.005 416.638C245.221 410.618 233.978 351.25 233.978 351.25Z" id="Vector-67" fill="#CBC8FF" fill-rule="evenodd" stroke="none" />
+      <path d="M423.541 350.137L416.844 366.631C416.844 366.631 483.89 423.919 537.978 412.707C592.066 401.495 599.08 352.117 599.08 352.117L591.44 353.186C591.44 353.186 584.64 395.87 528.469 398.118C472.297 400.366 423.541 350.137 423.541 350.137Z" id="Vector-68" fill="#CBC8FF" fill-opacity="0.8509804" fill-rule="evenodd" stroke="none" />
+      <path d="M365.386 408.833C365.386 408.833 376.687 407.264 387.042 463.037C397.396 518.81 387.181 581.037 409.615 622.342C451.66 699.754 533.567 718.482 533.567 718.482C533.567 718.482 513.336 709.842 490.529 691.484C467.722 673.126 442.338 645.051 442.338 645.051L421.541 613.389C402.894 576.68 404.888 544.248 402.563 507.77C400.719 478.83 397.896 453.629 394.472 444.86C386.734 425.037 365.386 408.833 365.386 408.833Z" id="Vector-73" fill="#CFCCFD" fill-rule="evenodd" stroke="none" />
+    </g>
+  </g>
+</svg>

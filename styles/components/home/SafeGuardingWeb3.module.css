@@ -1,6 +1,7 @@
 .SafeGuardingWeb3 {
-  background-color: #01010a;
+  background-color: #fff;
   padding: 60px 0px;
+  overflow: hidden;
 }
 
 .content {
@@ -19,7 +20,7 @@
 
 .content h2 {
   font-size: 32px;
-  color: #091ee1;
+  color: #1a33ca;
   margin: 40px 0px;
   text-align: center;
 }
@@ -27,7 +28,7 @@
 .content p {
   text-align: center;
   font-size: 20px;
-  color: #fff;
+  color: #000;
 }
 
 @media screen and (min-width: 768px) {
@@ -43,7 +44,7 @@
 
   .content img {
     width: 450px;
-    margin-left: 37%;
+    margin-left: 35%;
   }
 
   .content h2 {
@@ -58,12 +59,13 @@
   }
 
   .text {
-    width: 70%;
+    margin-top: -150px;
+    width: 65%;
   }
 }
 
 @media screen and (min-width: 1200px) {
   .content img {
-    margin-left: 66%;
+    margin-left: 60%;
   }
 }

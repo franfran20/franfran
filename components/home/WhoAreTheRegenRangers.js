@@ -6,7 +6,7 @@ export const WhoAreTheRegenRangers = () => {
     <div className={styles.WhoAreTheRegenRangers}>
       {
         <motion.img
-          src="/illustrations/flag.svg"
+          src="/illustrations/robot_illustration.svg"
           width="800"
           height="800"
           initial="hidden"

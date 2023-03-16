@@ -1,6 +1,7 @@
 .about {
-  background-color: #040a2e;
-  padding: 40px 0px;
+  background-color: #020218;
+  padding: 60px 0px;
+  overflow: hidden;
 }
 
 .about h2 {
@@ -41,10 +42,10 @@
   justify-content: flex-start;
   align-items: flex-start;
   box-shadow: 2px 2px 15px #64646457;
-  padding: 40px;
+  padding: 30px;
   border-radius: 8px;
   color: #fff;
-  background-color: #040a2e;
+  background-color: #1a2356;
 }
 
 .box img {
@@ -65,7 +66,7 @@
   justify-content: flex-start;
   align-items: flex-start;
   box-shadow: 2px 2px 15px #6464644f;
-  padding: 40px;
+  padding: 30px;
   border-radius: 8px;
   background-color: #fff;
   color: #132098;
@@ -85,12 +86,13 @@
   .top {
     display: flex;
     flex-direction: row;
+    margin-top: -50px;
   }
 
   .text {
     display: flex;
     flex-direction: column;
-    width: 40%;
+    width: 45%;
     margin: 30px;
   }
 
@@ -104,7 +106,7 @@
   .text p {
     color: #fff;
     margin: 0px;
-    font-size: 21px;
+    font-size: 20px;
   }
 
   .text span {
@@ -114,7 +116,7 @@
   }
 
   .box {
-    width: 150px;
+    width: 200px;
     height: 200px;
     margin: 10px;
   }
@@ -124,7 +126,7 @@
   }
 
   .boxWhite {
-    width: 150px;
+    width: 120px;
     height: 200px;
     margin: 10px;
   }
@@ -136,14 +138,14 @@
 
 @media screen and (min-width: 1000px) {
   .box {
-    width: 180px;
-    height: 230px;
+    width: 150px;
+    height: 210px;
     margin: 10px;
   }
 
   .boxWhite {
-    width: 180px;
-    height: 230px;
+    width: 150px;
+    height: 210px;
     margin: 10px;
   }
 
@@ -156,7 +158,7 @@
   }
 }
 
-@media screen and (min-width: 1000px) {
+@media screen and (min-width: 1200px) {
   .box {
     width: 12%;
     height: 230px;
