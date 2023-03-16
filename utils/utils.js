@@ -53,13 +53,13 @@ const ALL_BLOGS = [
   {
     title: "Defending Web3 With Data Science",
     author: "Egboluche Francis",
-    image: "/dummy/dummy32.jpg",
+    image: "/dummy/dummy345.jpg",
     link: "https://github.com/franfran20/regen_rangers_bounty/blob/main/BLOG.md",
   },
   {
     title: "DataBuilders Hackathon",
     author: "Jeffery White",
-    image: "/dummy/dummy1912.jpg",
+    image: "/dummy/dummy62.jpg",
     link: "/",
   },
 ];
