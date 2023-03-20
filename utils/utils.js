@@ -37,14 +37,26 @@ const ALL_BLOGS = [
   {
     title: "Defending Web3 With Data Science",
     author: "Egboluche Francis",
-    image: "/dummy/dummy345.jpg",
+    snippet:
+      "Therefore, we are very pleased to announce the birth of the OpenData Community Sandbox, a space to foster the maturation of these projects. In the coming weeks, the community will discuss which will be the initial projects invited to join the Sandbox, these projects will be able to rely on numerous benefits",
+    date: "Jan 4, 2023",
     link: "https://github.com/franfran20/regen_rangers_bounty/blob/main/BLOG.md",
   },
   {
-    title: "DataBuilders Hackathon",
-    author: "Jeffery White",
-    image: "/dummy/dummy62.jpg",
-    link: "/",
+    title: "Defending Web3 With Data Science",
+    author: "Egboluche Francis",
+    snippet:
+      "Therefore, we are very pleased to announce the birth of the OpenData Community Sandbox, a space to foster the maturation of these projects. In the coming weeks, the community will discuss which will be the initial projects invited to join the Sandbox, these projects will be able to rely on numerous benefits",
+    date: "Jan 4, 2023",
+    link: "https://github.com/franfran20/regen_rangers_bounty/blob/main/BLOG.md",
+  },
+  {
+    title: "Defending Web3 With Data Science",
+    author: "Egboluche Francis",
+    snippet:
+      "Therefore, we are very pleased to announce the birth of the OpenData Community Sandbox, a space to foster the maturation of these projects. In the coming weeks, the community will discuss which will be the initial projects invited to join the Sandbox, these projects will be able to rely on numerous benefits",
+    date: "Jan 4, 2023",
+    link: "https://github.com/franfran20/regen_rangers_bounty/blob/main/BLOG.md",
   },
 ];
 

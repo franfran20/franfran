@@ -16,7 +16,8 @@ export default function Blogs() {
         <link rel="icon" href="/favicon.png" />
       </Head>
 
-      <h2>Community Blogs</h2>
+      <h2>Blogs</h2>
+      <h4>Latest</h4>
 
       <div className={styles.allBlogs}>
         {ALL_BLOGS.map((blog, index) => {
@@ -24,8 +25,9 @@ export default function Blogs() {
             <Blog
               title={blog.title}
               author={blog.author}
-              image={blog.image}
+              snippet={blog.snippet}
               link={blog.link}
+              date={blog.date}
               key={index}
             />
           );

@@ -2,20 +2,29 @@
   display: flex;
   flex-direction: column;
   justify-content: center;
-  align-items: center;
-  margin: 60px 0px;
+  align-items: flex-start;
+  margin: 60px auto;
+  width: 80%;
 }
 
 .blogs h2 {
-  color: #020218;
+  color: #000000;
   font-weight: 900;
   font-size: 40px;
+  margin: 10px 0px;
+}
+
+.blogs h4 {
+  color: #791ab8;
 }
 
 .allBlogs {
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;
-  justify-content: center;
+  justify-content: flex-start;
   align-items: center;
+}
+
+@media screen and (min-width: 768px) {
 }
