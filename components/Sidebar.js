@@ -42,7 +42,7 @@ export const Sidebar = ({ setMenu, menu }) => {
             whileHover={{ scale: 1.3 }}
             initial={{ scale: 1 }}
             transition={{ duration: 0.3 }}
-            src="/socials/discord.svg"
+            src="/socials/discordWhite.svg"
             height="30"
             width="30"
           />
@@ -52,7 +52,7 @@ export const Sidebar = ({ setMenu, menu }) => {
             whileHover={{ scale: 1.3 }}
             initial={{ scale: 1 }}
             transition={{ duration: 0.3 }}
-            src="/socials/github.svg"
+            src="/socials/githubWhite.svg"
             height="30"
             width="30"
           />
@@ -60,7 +60,7 @@ export const Sidebar = ({ setMenu, menu }) => {
 
         <motion.a href={SOCIAL_LINKS.twitter}>
           <motion.img
-            src="/socials/twitter.svg"
+            src="/socials/twitterWhite.svg"
             whileHover={{ scale: 1.3 }}
             initial={{ scale: 1 }}
             transition={{ duration: 0.3 }}

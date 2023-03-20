@@ -1,5 +1,5 @@
 .joinCommunity {
-  background-color: #e6f5fd;
+  background-color: #fbe6ff;
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -12,20 +12,20 @@
 .joinCommunity h2 {
   font-size: 50px;
   text-align: center;
-  color: #000000;
+  color: #2c013a;
   font-weight: bolder;
 }
 
 .joinCommunity a {
   border: none;
   padding: 15px 20px;
-  color: #1303f6;
-  background-color: #f5e616;
-  font-size: 22px;
+  color: #ffffff;
+  background-color: #2c013a;
+  font-size: 18px;
   border-radius: 8px;
 }
 
 .joinCommunity a:hover {
-  background-color: #1303f6;
-  color: #f5e616;
+  background-color: #000;
+  color: #fbe6ff;
 }

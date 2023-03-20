@@ -24,7 +24,7 @@ export const JoinCommunity = () => {
           },
         }}
       >
-        Join Us On Discord
+        Join Us On Discord!
       </motion.h2>
       <motion.a
         href="/"
@@ -46,7 +46,7 @@ export const JoinCommunity = () => {
           },
         }}
       >
-        Come Right In &gt;
+        Get Involved &gt;
       </motion.a>
     </div>
   );

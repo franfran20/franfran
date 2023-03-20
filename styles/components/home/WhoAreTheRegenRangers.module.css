@@ -4,49 +4,88 @@
   align-items: center;
   justify-content: center;
   width: 80%;
-  margin: 80px auto;
+  margin: 0px auto 80px auto;
   overflow: hidden;
 }
 
 .WhoAreTheRegenRangers img {
-  width: 300px;
+  width: 350px;
   height: auto;
-  margin: 20px 0px;
+  margin: 30px 0px;
 }
 
-.text span {
-  color: #4d96ab;
-  font-weight: 700;
+.imgContainer {
+  text-align: center;
+}
+
+.text {
+  text-align: center;
 }
 
 .text h2 {
   font-size: 42px;
-  font-weight: 900;
+  color: #000000;
 }
 
 .text p {
   font-size: 20px;
+  width: 90%;
+  margin-left: auto;
+  margin-right: auto;
 }
 
-@media screen and (min-width: 1000px) {
+.text span {
+  color: #8b06ca;
+}
+
+@media screen and (min-width: 900px) {
   .WhoAreTheRegenRangers {
-    width: 85%;
+    display: flex;
     flex-direction: row;
   }
 
   .WhoAreTheRegenRangers img {
-    width: 450px;
-    height: auto;
-    margin-right: 100px;
+    width: 300px;
+    margin: 30px 70px 30px 0px;
   }
 
   .text {
-    width: 75%;
+    text-align: left;
+  }
+
+  .text h2 {
+    font-size: 40px;
+    color: #000000;
+  }
+
+  .text p {
+    font-size: 20px;
+    width: 90%;
+    margin: 20px 0;
+  }
+
+  .text span {
+    color: #8b06ca;
   }
 }
 
-@media screen and (min-width: 1200px) {
+@media screen and (min-width: 1150px) {
+  .WhoAreTheRegenRangers img {
+    margin: 30px 60px 30px 0px;
+    width: 400px;
+  }
+
   .text {
     width: 50%;
+  }
+
+  .text h2 {
+    font-size: 50px;
+    color: #000000;
+  }
+
+  .text p {
+    width: 90%;
+    margin: 20px 0;
   }
 }

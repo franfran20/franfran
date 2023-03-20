@@ -6,6 +6,7 @@ import { SafeGuardingWeb3 } from "@/components/home/SafeGuardingWeb3";
 import { About } from "@/components/home/About";
 import { Sponsors } from "@/components/home/Sponsors";
 import { JoinCommunity } from "@/components/home/JoinCommunity";
+import { Footer } from "@/components/Footer";
 
 export default function Home() {
   return (
@@ -25,13 +26,9 @@ export default function Home() {
 
         <WhoAreTheRegenRangers />
 
-        <About />
-
         <JoinCommunity />
 
         <SafeGuardingWeb3 />
-
-        <Sponsors />
       </main>
     </>
   );

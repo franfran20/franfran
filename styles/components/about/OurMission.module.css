@@ -1,0 +1,49 @@
+.container {
+  padding: 30px;
+}
+
+.ourMission {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  width: 90%;
+  margin: 0px auto;
+}
+
+.boxes {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 400px;
+  height: auto;
+  text-align: center;
+  margin: 20px;
+}
+
+.boxes img {
+  width: 200px;
+  height: 140px;
+}
+
+.boxes h3 {
+  font-size: 24px;
+  margin: 8px 0px;
+}
+
+.boxes p {
+  font-size: 18px;
+}
+
+.header {
+  text-align: center;
+  font-size: 50px;
+}
+
+@media screen and (min-width: 900px) {
+  .boxes {
+    width: 350px;
+  }
+}

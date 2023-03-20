@@ -14,7 +14,7 @@ export const Navbar = () => {
       <nav className={styles.navbar}>
         <Link href="/">
           <Image
-            src="/navbar/regen_logo.png"
+            src="/navbar/regen_logo.svg"
             height="500"
             width="500"
             className={styles.logo}
@@ -22,11 +22,18 @@ export const Navbar = () => {
         </Link>
 
         <div className={styles.links}>
-          <motion.a href="/members" whileHover={{ scale: 1.2 }}>
-            Members
+          <motion.a href="/about" whileHover={{ scale: 1.2 }}>
+            About Us
           </motion.a>
+
           <motion.a href="/blogs" whileHover={{ scale: 1.2 }}>
             Blogs
+          </motion.a>
+          <motion.a href="/hackathons" whileHover={{ scale: 1.2 }}>
+            Hackathons
+          </motion.a>
+          <motion.a href="/docs" whileHover={{ scale: 1.2 }}>
+            Docs &gt;
           </motion.a>
         </div>
 

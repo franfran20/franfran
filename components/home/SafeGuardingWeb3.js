@@ -6,7 +6,7 @@ export const SafeGuardingWeb3 = () => {
     <div className={styles.SafeGuardingWeb3}>
       <div className={styles.content}>
         <motion.img
-          src="/illustrations/atom.svg"
+          src="/illustrations/kudos.svg"
           width="500"
           height="500"
           initial="hidden"
@@ -50,14 +50,21 @@ export const SafeGuardingWeb3 = () => {
             Centralization
           </h2>
           <p>
-            If we collectively do not resist Sybil attacks then one of the real
-            bright spots of web3 - the collective funding of public goods -
-            could be captured by essentially criminal forces. Similarly, if we
-            continue to all take shortcuts when accessing and analyzing
-            blockchain data then we are adding vulnerability to the ecosystem
-            right above the decentralized blockchains in the form of
-            centralization.
+            If we collectively do not <span>resist Sybil attacks</span> then one
+            of the real bright spots of web3 -{" "}
+            <span>the collective funding of public goods</span> - could be
+            captured by essentially criminal forces. Similarly, if we continue
+            to all take shortcuts when accessing and analyzing blockchain data
+            then we are adding vulnerability to the ecosystem right above the
+            decentralized blockchains in the form of centralization. Join us in
+            this battle,<span>become a ranger</span> ,{" "}
+            <span>climb the ranks</span> from a member to a{" "}
+            <span>junior regen ranger</span>
+            to a <span>senior regen ranger</span>, earn our badges along the way
+            and of course, <span>slay sybils.</span>
           </p>
+
+          <motion.a href="/">Become A Ranger Today &gt;</motion.a>
         </motion.div>
       </div>
     </div>
