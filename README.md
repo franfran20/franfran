@@ -10,4 +10,5 @@ These are the basic requirements that were demanded for the bounty submission. F
 
 - Kudos Design.
 
-  <image src="public/kudos.png" width="300" height="300" />
+  <image src="public/kudos/gold.svg" width="300" height="300" />
+  <image src="public/kudos/silver.svg" width="300" height="300" />
