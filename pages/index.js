@@ -3,8 +3,6 @@ import styles from "@/styles/Home.module.css";
 import { Hero } from "@/components/home/Hero";
 import { WhoAreTheRegenRangers } from "@/components/home/WhoAreTheRegenRangers";
 import { SafeGuardingWeb3 } from "@/components/home/SafeGuardingWeb3";
-import { About } from "@/components/home/About";
-import { Sponsors } from "@/components/home/Sponsors";
 import { JoinCommunity } from "@/components/home/JoinCommunity";
 import { Footer } from "@/components/Footer";
 
