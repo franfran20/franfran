@@ -1,0 +1,45 @@
+.climbTheRanks {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 60px 0px;
+  width: 80%;
+  margin: 0px auto;
+  overflow: hidden;
+}
+
+.climbTheRanks img {
+  width: 350px;
+  height: auto;
+}
+
+.climbTheRanks h2 {
+  font-size: 30px;
+  color: #3c174d;
+  text-align: center;
+  margin-bottom: 10px;
+}
+
+.climbTheRanks span {
+  color: #aa29e6;
+}
+
+.climbTheRanks p {
+  font-size: 20px;
+  width: 90%;
+  text-align: center;
+  margin-top: 0;
+}
+
+@media screen and (min-width: 900px) {
+  .climbTheRanks h2 {
+    font-size: 42px;
+    width: 60%;
+  }
+
+  .climbTheRanks p {
+    font-size: 22px;
+    width: 75%;
+  }
+}

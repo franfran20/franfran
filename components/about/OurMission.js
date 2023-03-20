@@ -5,7 +5,25 @@ export const OurMission = () => {
   return (
     <div className={styles.container}>
       <h2 className={styles.header}> Our Mission</h2>
-      <div className={styles.ourMission}>
+      <motion.div
+        className={styles.ourMission}
+        initial="hidden"
+        whileInView="visible"
+        variants={{
+          visible: {
+            x: 0,
+            opacity: 1,
+            transition: {
+              duration: 0.4,
+              delay: 0.4,
+            },
+          },
+          hidden: {
+            x: "30vw",
+            opacity: 0,
+          },
+        }}
+      >
         <motion.div className={styles.boxes}>
           <motion.img src="/illustrations/piechart.svg" />
           <h3>Web3 Sybil Protection</h3>
@@ -40,7 +58,7 @@ export const OurMission = () => {
             democratic online environment.
           </p>
         </motion.div>
-      </div>
+      </motion.div>
     </div>
   );
 };

@@ -1,8 +1,22 @@
 import styles from "../../styles/components/about/HeroText.module.css";
+import { motion } from "framer-motion";
 
 export const HeroText = () => {
   return (
-    <div className={styles.about}>
+    <motion.div
+      initial="hidden"
+      whileInView="visible"
+      variants={{
+        visible: {
+          y: 0,
+          transition: { stiffness: 180, type: "spring" },
+        },
+        hidden: {
+          y: "-10vh",
+        },
+      }}
+      className={styles.about}
+    >
       <h2>Who Are The Regen Rangers?</h2>
       <p>
         The Regen Rangers are an <span>open-source community</span> originally
@@ -17,6 +31,6 @@ export const HeroText = () => {
         - <span>Sybil resistance through data science</span> and the development
         of useful algorithms and other approaches
       </p>
-    </div>
+    </motion.div>
   );
 };

@@ -1,3 +1,5 @@
+import { Benefits } from "@/components/about/Benefits";
+import { ClimbTheRanks } from "@/components/about/ClimbTheRanks";
 import { CoreValues } from "@/components/about/CoreValues";
 import { HeroText } from "@/components/about/HeroText";
 import { OurMission } from "@/components/about/OurMission";
@@ -22,6 +24,10 @@ export default function About() {
         <OurMission />
 
         <CoreValues />
+
+        <Benefits />
+
+        <ClimbTheRanks />
       </main>
     </>
   );

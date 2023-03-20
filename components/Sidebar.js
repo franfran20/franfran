@@ -19,20 +19,14 @@ export const Sidebar = ({ setMenu, menu }) => {
       />
 
       <div className={styles.links}>
-        <motion.a
-          href="/members"
-          whileHover={{ scale: 1.2, color: "#6ECFEA" }}
-          initial={{ scale: 1, color: "#fff" }}
-          transition={{ duration: 0.4 }}
-        >
-          Members
+        <motion.a href="/about" whileHover={{ scale: 1.2 }}>
+          About Us
         </motion.a>
-        <motion.a
-          href="/blogs"
-          whileHover={{ scale: 1.2, color: "#6ECFEA" }}
-          initial={{ scale: 1, color: "#fff" }}
-        >
+        <motion.a href="/blogs" whileHover={{ scale: 1.2 }}>
           Blogs
+        </motion.a>
+        <motion.a href="/docs" whileHover={{ scale: 1.2 }}>
+          Docs &gt;
         </motion.a>
       </div>
 

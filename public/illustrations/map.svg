@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="506px" height="449px" viewBox="0 0 506 449" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <path d="M0 0L506 0L506 449L0 449L0 0Z" id="path_1" />
+    <path d="M31 20L137 78L255.5 18.5L377 78L472 26.5L478 374.5L376 432L257 373L146.5 433L27.5 374.5L31 20Z" id="path_2" />
+    <path d="M0 13.9692L9.56657 27.0654" id="path_3" />
+    <path d="M25.2209 45.4L37.3966 59.3692" id="path_4" />
+    <path d="M60.0085 62.8615L80.881 62.8615" id="path_5" />
+    <path d="M99.1445 50.6385L112.19 42.7808" id="path_6" />
+    <path d="M132.193 31.4308L147.847 20.9539" id="path_7" />
+    <path d="M166.11 6.98462L180.895 0" id="path_8" />
+    <path d="M206.986 3.49231L224.38 3.49231" id="path_9" />
+    <path d="M245.252 6.98462L263.516 19.2077" id="path_10" />
+    <path d="M277.431 31.4308L290.476 44.5269" id="path_11" />
+    <path d="M301.782 64.6077L305.261 82.9423" id="path_12" />
+    <path d="M305.261 103.896L305.261 126.596" id="path_13" />
+    <path d="M300.042 143.185L294.824 160.646" id="path_14" />
+    <path d="M284.388 181.6L270.473 197.315" id="path_15" />
+    <path d="M248.731 208.665L233.076 213.031" id="path_16" />
+    <path d="M213.074 212.158L195.68 212.158" id="path_17" />
+    <path d="M175.677 202.554L153.065 192.077" id="path_18" />
+    <path d="M138.28 184.219L120.887 179.854" id="path_19" />
+    <path d="M96.5354 185.965L81.7507 193.823" id="path_20" />
+    <path d="M12.1757 169.377L66.966 227" id="path_21" />
+    <path d="M64.3569 167.631L11.306 223.508" id="path_22" />
+    <clipPath id="clip_1">
+      <use xlink:href="#path_1" />
+    </clipPath>
+    <clipPath id="clip_2">
+      <use xlink:href="#path_2" />
+    </clipPath>
+    <clipPath id="clip_3">
+      <use xlink:href="#path_3" />
+    </clipPath>
+    <clipPath id="clip_4">
+      <use xlink:href="#path_4" />
+    </clipPath>
+    <clipPath id="clip_5">
+      <use xlink:href="#path_5" />
+    </clipPath>
+    <clipPath id="clip_6">
+      <use xlink:href="#path_6" />
+    </clipPath>
+    <clipPath id="clip_7">
+      <use xlink:href="#path_7" />
+    </clipPath>
+    <clipPath id="clip_8">
+      <use xlink:href="#path_8" />
+    </clipPath>
+    <clipPath id="clip_9">
+      <use xlink:href="#path_9" />
+    </clipPath>
+    <clipPath id="clip_10">
+      <use xlink:href="#path_10" />
+    </clipPath>
+    <clipPath id="clip_11">
+      <use xlink:href="#path_11" />
+    </clipPath>
+    <clipPath id="clip_12">
+      <use xlink:href="#path_12" />
+    </clipPath>
+    <clipPath id="clip_13">
+      <use xlink:href="#path_13" />
+    </clipPath>
+    <clipPath id="clip_14">
+      <use xlink:href="#path_14" />
+    </clipPath>
+    <clipPath id="clip_15">
+      <use xlink:href="#path_15" />
+    </clipPath>
+    <clipPath id="clip_16">
+      <use xlink:href="#path_16" />
+    </clipPath>
+    <clipPath id="clip_17">
+      <use xlink:href="#path_17" />
+    </clipPath>
+    <clipPath id="clip_18">
+      <use xlink:href="#path_18" />
+    </clipPath>
+    <clipPath id="clip_19">
+      <use xlink:href="#path_19" />
+    </clipPath>
+    <clipPath id="clip_20">
+      <use xlink:href="#path_20" />
+    </clipPath>
+    <clipPath id="clip_21">
+      <use xlink:href="#path_21" />
+    </clipPath>
+    <clipPath id="clip_22">
+      <use xlink:href="#path_22" />
+    </clipPath>
+  </defs>
+  <g id="Frame" clip-path="url(#clip_1)">
+    <path d="M0 0L506 0L506 449L0 449L0 0Z" id="Frame" fill="#FFFFFF" fill-opacity="0" fill-rule="evenodd" stroke="none" />
+    <g id="Vector">
+      <g clip-path="url(#clip_2)">
+        <use xlink:href="#path_2" fill="none" stroke="#FFFFFF" stroke-width="26" />
+      </g>
+    </g>
+    <g id="Group" transform="matrix(-1 0 0 1 406 112)">
+      <g id="Vector-2">
+        <g clip-path="url(#clip_3)">
+          <use xlink:href="#path_3" fill="none" stroke="#FFFFFF" stroke-width="26" />
+        </g>
+      </g>
+      <g id="Vector-3">
+        <g clip-path="url(#clip_4)">
+          <use xlink:href="#path_4" fill="none" stroke="#FFFFFF" stroke-width="26" />
+        </g>
+      </g>
+      <g id="Vector-4">
+        <g clip-path="url(#clip_5)">
+          <use xlink:href="#path_5" fill="none" stroke="#FFFFFF" stroke-width="26" />
+        </g>
+      </g>
+      <g id="Vector-5">
+        <g clip-path="url(#clip_6)">
+          <use xlink:href="#path_6" fill="none" stroke="#FFFFFF" stroke-width="26" />
+        </g>
+      </g>
+      <g id="Vector-6">
+        <g clip-path="url(#clip_7)">
+          <use xlink:href="#path_7" fill="none" stroke="#FFFFFF" stroke-width="26" />
+        </g>
+      </g>
+      <g id="Vector-7">
+        <g clip-path="url(#clip_8)">
+          <use xlink:href="#path_8" fill="none" stroke="#FFFFFF" stroke-width="26" />
+        </g>
+      </g>
+      <g id="Vector-8">
+        <g clip-path="url(#clip_9)">
+          <use xlink:href="#path_9" fill="none" stroke="#FFFFFF" stroke-width="26" />
+        </g>
+      </g>
+      <g id="Vector-9">
+        <g clip-path="url(#clip_10)">
+          <use xlink:href="#path_10" fill="none" stroke="#FFFFFF" stroke-width="26" />
+        </g>
+      </g>
+      <g id="Vector-10">
+        <g clip-path="url(#clip_11)">
+          <use xlink:href="#path_11" fill="none" stroke="#FFFFFF" stroke-width="26" />
+        </g>
+      </g>
+      <g id="Vector-11">
+        <g clip-path="url(#clip_12)">
+          <use xlink:href="#path_12" fill="none" stroke="#FFFFFF" stroke-width="26" />
+        </g>
+      </g>
+      <g id="Vector-12">
+        <g clip-path="url(#clip_13)">
+          <use xlink:href="#path_13" fill="none" stroke="#FFFFFF" stroke-width="26" />
+        </g>
+      </g>
+      <g id="Vector-13">
+        <g clip-path="url(#clip_14)">
+          <use xlink:href="#path_14" fill="none" stroke="#FFFFFF" stroke-width="26" />
+        </g>
+      </g>
+      <g id="Vector-14">
+        <g clip-path="url(#clip_15)">
+          <use xlink:href="#path_15" fill="none" stroke="#FFFFFF" stroke-width="26" />
+        </g>
+      </g>
+      <g id="Vector-15">
+        <g clip-path="url(#clip_16)">
+          <use xlink:href="#path_16" fill="none" stroke="#FFFFFF" stroke-width="26" />
+        </g>
+      </g>
+      <g id="Vector-16">
+        <g clip-path="url(#clip_17)">
+          <use xlink:href="#path_17" fill="none" stroke="#FFFFFF" stroke-width="26" />
+        </g>
+      </g>
+      <g id="Vector-17">
+        <g clip-path="url(#clip_18)">
+          <use xlink:href="#path_18" fill="none" stroke="#FFFFFF" stroke-width="26" />
+        </g>
+      </g>
+      <g id="Vector-18">
+        <g clip-path="url(#clip_19)">
+          <use xlink:href="#path_19" fill="none" stroke="#FFFFFF" stroke-width="26" />
+        </g>
+      </g>
+      <g id="Vector-19">
+        <g clip-path="url(#clip_20)">
+          <use xlink:href="#path_20" fill="none" stroke="#FFFFFF" stroke-width="26" />
+        </g>
+      </g>
+      <g id="Vector-20">
+        <g clip-path="url(#clip_21)">
+          <use xlink:href="#path_21" fill="none" stroke="#FFFFFF" stroke-width="26" />
+        </g>
+      </g>
+      <g id="Vector-21">
+        <g clip-path="url(#clip_22)">
+          <use xlink:href="#path_22" fill="none" stroke="#FFFFFF" stroke-width="26" />
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

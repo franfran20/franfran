@@ -18,36 +18,20 @@ const TEXT_TO_DISPLAY = {
     "We believe in the power of initiative and taking action to drive positive change. We value individuals who are willing to take on responsibility and actively seek out opportunities to make a meaningful impact. By fostering a culture of initiative, we can encourage innovation, creativity, and collaboration, and empower individuals to take ownership of their work and drive results. We also recognize the importance of supporting and appreciating those who take on responsibility, and creating a supportive environment where individuals feel empowered to take risks and learn from their experiences. ",
 };
 
-const CORE_MEMBERS = [
-  {
-    name: "John",
-    bio: "As a Data Scientist, I possess a strong interest in observing and analyzing patterns of behavior, particularly those related to sybil activity. In addition to my professional pursuits, I am also an enthusiastic fan of anime.",
-  },
-  {
-    name: "Fred",
-    bio: "As a Data Scientist, I possess a strong interest in observing and analyzing patterns of behavior, particularly those related to sybil activity. In addition to my professional pursuits, I am also an enthusiastic fan of anime.",
-  },
-  {
-    name: "Jessica",
-    bio: "As a Data Scientist, I possess a strong interest in observing and analyzing patterns of behavior, particularly those related to sybil activity. In addition to my professional pursuits, I am also an enthusiastic fan of anime.",
-  },
-  {
-    name: "Evan",
-    bio: "As a Data Scientist, I possess a strong interest in observing and analyzing patterns of behavior, particularly those related to sybil activity. In addition to my professional pursuits, I am also an enthusiastic fan of anime.",
-  },
-  {
-    name: "Raymond",
-    bio: "As a Data Scientist, I possess a strong interest in observing and analyzing patterns of behavior, particularly those related to sybil activity. In addition to my professional pursuits, I am also an enthusiastic fan of anime.",
-  },
-  {
-    name: "Blue",
-    bio: "As a Data Scientist, I possess a strong interest in observing and analyzing patterns of behavior, particularly those related to sybil activity. In addition to my professional pursuits, I am also an enthusiastic fan of anime.",
-  },
-  {
-    name: "Kate",
-    bio: "As a Data Scientist, I possess a strong interest in observing and analyzing patterns of behavior, particularly those related to sybil activity. In addition to my professional pursuits, I am also an enthusiastic fan of anime.",
-  },
-];
+const IMAGE_TO_DISPLAY = {
+  "Sybil Resistance": "/illustrations/shieldPurple.svg",
+  "Resisting Recentralization": "/illustrations/centralizationPurple.svg",
+  Openess: "/illustrations/githubPurple.svg",
+  Candor: "/illustrations/candorPurple.svg",
+  Inclusive: "/illustrations/inclusivePurple.svg",
+  Initiative: "illustrations/initiativePurple.svg",
+};
+
+const SOCIAL_LINKS = {
+  discord: "https://discord.gg/fwBdRRv4",
+  github: "https://github.com/opendataforweb3",
+  twitter: "https://twitter.com/OpenDataforWeb3",
+};
 
 const ALL_BLOGS = [
   {
@@ -64,15 +48,9 @@ const ALL_BLOGS = [
   },
 ];
 
-const SOCIAL_LINKS = {
-  discord: "https://discord.gg/fwBdRRv4",
-  github: "https://github.com/opendataforweb3",
-  twitter: "https://twitter.com/OpenDataforWeb3",
-};
-
 module.exports = {
   TEXT_TO_DISPLAY,
-  CORE_MEMBERS,
   ALL_BLOGS,
   SOCIAL_LINKS,
+  IMAGE_TO_DISPLAY,
 };

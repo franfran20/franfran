@@ -12,7 +12,7 @@
 .footer p {
   color: #023633;
   font-size: 17px;
-  margin-right: 30px;
+  text-align: center;
 }
 
 .footerLinks {
@@ -35,6 +35,8 @@
 
   .footer p {
     color: #502f68;
+    text-align: center;
+    margin-right: 30px;
   }
 
   .footer p:hover {
