@@ -64,7 +64,9 @@ export const SafeGuardingWeb3 = () => {
             and of course, <span>slay sybils.</span>
           </p>
 
-          <motion.a href="/">Become A Ranger Today &gt;</motion.a>
+          <motion.a href="https://opendatacommunity.org/docs/">
+            Become A Ranger Today &gt;
+          </motion.a>
         </motion.div>
       </div>
     </div>

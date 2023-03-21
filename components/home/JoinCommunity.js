@@ -1,6 +1,7 @@
 import Link from "next/link";
 import styles from "../../styles/components/home/JoinCommunity.module.css";
 import { motion } from "framer-motion";
+import { SOCIAL_LINKS } from "@/utils/utils";
 
 export const JoinCommunity = () => {
   return (
@@ -27,7 +28,7 @@ export const JoinCommunity = () => {
         Join Us On Discord!
       </motion.h2>
       <motion.a
-        href="/"
+        href={SOCIAL_LINKS.discord}
         initial="hidden"
         whileInView="visible"
         variants={{

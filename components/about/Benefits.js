@@ -49,7 +49,9 @@ export const Benefits = () => {
             <p> - Earn The Regen Rangers Badge as you climb the ranks</p>
           </div>
 
-          <a className={styles.link}>Learn What It Takes &gt;</a>
+          <a className={styles.link} href="https://opendatacommunity.org/docs/">
+            Learn What It Takes &gt;
+          </a>
         </div>
         <div className={styles.imgContainer}>
           <img src="/illustrations/map.png" />

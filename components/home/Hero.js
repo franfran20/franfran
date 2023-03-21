@@ -50,7 +50,7 @@ export const Hero = () => {
           to web3 fraud focusing on Sybil resistance through data science and
           the development of useful algorithms and other approaches
         </p>
-        <Link href="/members">Learn More &gt;</Link>
+        <Link href="/about">Learn More &gt;</Link>
       </motion.div>
     </div>
   );
