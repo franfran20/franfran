@@ -48,6 +48,7 @@
 
 .text a:hover {
   color: #9e15de;
+  border-bottom: 2px solid #9e15de;
 }
 
 @media screen and (min-width: 1150px) {

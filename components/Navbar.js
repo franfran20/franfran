@@ -25,10 +25,16 @@ export const Navbar = () => {
           <motion.a href="/about" whileHover={{ scale: 1.2 }}>
             About Us
           </motion.a>
-          <motion.a href="/blogs" whileHover={{ scale: 1.2 }}>
+          <motion.a
+            href="https://opendatacommunity.org/blog/"
+            whileHover={{ scale: 1.2 }}
+          >
             Blogs
           </motion.a>
-          <motion.a href="/docs" whileHover={{ scale: 1.2 }}>
+          <motion.a
+            href="https://opendatacommunity.org/docs/"
+            whileHover={{ scale: 1.2 }}
+          >
             Docs &gt;
           </motion.a>
         </div>
