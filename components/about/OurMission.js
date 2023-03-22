@@ -52,10 +52,10 @@ export const OurMission = () => {
           <motion.img src="/illustrations/data.svg" />
           <h3>Aiding With Grant Reviews</h3>
           <p>
-            The Regen Rangers have developed "Legos," a grant management
-            platform, to streamline the grant review procedure and guarantee
-            that grant requests that pass the minimum requirements and checks
-            put in place to prevent Sybils will be accepted.
+            The Regen Rangers have developed &quot;Legos,&quot; a grant
+            management platform, to streamline the grant review procedure and
+            guarantee that grant requests that pass the minimum requirements and
+            checks put in place to prevent Sybils will be accepted.
           </p>
         </motion.div>
       </motion.div>
