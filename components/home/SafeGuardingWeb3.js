@@ -45,23 +45,18 @@ export const SafeGuardingWeb3 = () => {
             },
           }}
         >
-          <h2>
-            Safeguarding Web3s Public Good Funding from Sybil Attacks and
-            Centralization
-          </h2>
+          <h2>Safeguarding Web3s Public Good Funding from Sybil Attacks</h2>
           <p>
-            If we collectively do not <span>resist Sybil attacks</span> then one
-            of the real bright spots of web3 -{" "}
-            <span>the collective funding of public goods</span> - could be
-            captured by essentially criminal forces. Similarly, if we continue
-            to all take shortcuts when accessing and analyzing blockchain data
-            then we are adding vulnerability to the ecosystem right above the
-            decentralized blockchains in the form of centralization. Join us in
-            this battle,<span>become a ranger</span> ,{" "}
-            <span>climb the ranks</span> from a member to a{" "}
-            <span>junior regen ranger</span>
-            to a <span>senior regen ranger</span>, earn our badges along the way
-            and of course, <span>slay sybils.</span>
+            The collective funding of public goods through Web3 presents a
+            bright spot for the decentralized ecosystem. However, this progress
+            could be undermined by the threat of Sybil attacks, which could
+            enable malicious actors to capture the funding intended for public
+            goods. To prevent this outcome, it is crucial for us to resist Sybil
+            attacks and maintain the integrity of grant distribution processes.
+            Therefore, it is essential to prioritize the development and
+            adoption of robust security measures to safeguard the grant
+            distribution space and ensure that the potential of Web3 for
+            collective funding of public goods is fully realized.
           </p>
 
           <motion.a href="https://opendatacommunity.org/docs/">

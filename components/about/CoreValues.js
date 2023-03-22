@@ -74,7 +74,7 @@ export const CoreValues = () => {
           <div
             className={styles.box}
             onClick={() => {
-              setClickedAbout("Resisting Recentralization");
+              setClickedAbout("Aiding With Grant Reviews");
             }}
           >
             <Image
@@ -82,7 +82,7 @@ export const CoreValues = () => {
               width="500"
               height="500"
             />
-            <h4>Resisting Centralization</h4>
+            <h4>Aiding With Grant Reviews</h4>
             <p>
               By promoting transparency and actively working to prevent
               malicious actors from taking control of the network, we believe we

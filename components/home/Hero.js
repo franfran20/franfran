@@ -46,9 +46,9 @@ export const Hero = () => {
           The Regen <span> Rangers</span>
         </h2>
         <p>
-          The Regen rangers are a dedicated group of data scientists that commit
-          to web3 fraud focusing on Sybil resistance through data science and
-          the development of useful algorithms and other approaches
+          The Regen Rangers are a dedicated group of data scientists that use
+          data science and analysis to specifically combat web fraud and Sybil
+          attacks.
         </p>
         <Link href="/about">Learn More &gt;</Link>
       </motion.div>

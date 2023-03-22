@@ -40,7 +40,6 @@ export const Benefits = () => {
         >
           <h3>Benefits Of Becoming A Regen Ranger</h3>
           <div className={styles.paras}>
-            <p> - Possible paid bounties for analysis of projects</p>
             <p> - Role as a hackathon judge, discord designation etc</p>
             <p> - Access to tooling and infrastructure</p>
             <p> - Governance - full weight on votes</p>

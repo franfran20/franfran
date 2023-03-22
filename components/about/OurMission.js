@@ -50,12 +50,12 @@ export const OurMission = () => {
 
         <motion.div className={styles.boxes}>
           <motion.img src="/illustrations/data.svg" />
-          <h3>Resisting Recentralization in Data Layer</h3>
+          <h3>Aiding With Grant Reviews</h3>
           <p>
-            resist recentralization and prevent potential capture at the data
-            layer. By promoting decentralized approaches and leveraging
-            cutting-edge technologies, we seek to create a more open and
-            democratic online environment.
+            The Regen Rangers have developed "Legos," a grant management
+            platform, to streamline the grant review procedure and guarantee
+            that grant requests that pass the minimum requirements and checks
+            put in place to prevent Sybils will be accepted.
           </p>
         </motion.div>
       </motion.div>

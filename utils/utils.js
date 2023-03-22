@@ -2,8 +2,8 @@ const TEXT_TO_DISPLAY = {
   "Sybil Resistance":
     " We specialize in developing strategies for sybil resistance through the use of data science.By analyzing patterns of behavior and identifying fraudulentactivities, we create algorithms that detect and prevent Sybil attacks. Our work involves creating models that identify anomaliesin data, and developing tools that can be used to prevent the creation of fake user accounts and other forms of maliciousactivity.. Our ultimate goal is to help organizations create asecure and trustworthy online experience for their users, byleveraging the power of data science to identify and prevent fraudulent activities.",
 
-  "Resisting Recentralization":
-    "We recognize the importance of decentralized systems and their potential to democratize access to information. However, we are also aware of the risks associated with recentralization and the potential for capture at the data layer. That is why we are committed to resisting recentralization efforts and combatting the threat of Sybil attacks on blockchains. By promoting transparency and actively working to prevent malicious actors from taking control of the network, we believe we can help protect the integrity of decentralized systems and ensure they remain a powerful tool for promoting equality and fairness.",
+  "Aiding With Grant Reviews":
+    "The Regen Rangers have developed 'Legos', a grant management platform, to streamline the grant review procedure and guarantee that grant requests that pass the minimum requirements and checks put in place to prevent Sybils will be accepted.",
 
   Openess:
     "We recognize the importance of openness and collaboration in maintaining the integrity of these systems. By working in public and actively requesting input from the wider community, we can better understand the risks and vulnerabilities associated with Sybil attacks and develop effective strategies to prevent them. We also understand that transparency and open communication are essential for building trust within the community and promoting greater adoption of decentralized technologies. ",
@@ -20,7 +20,7 @@ const TEXT_TO_DISPLAY = {
 
 const IMAGE_TO_DISPLAY = {
   "Sybil Resistance": "/illustrations/shieldPurple.svg",
-  "Resisting Recentralization": "/illustrations/centralizationPurple.svg",
+  "Aiding With Grant Reviews": "/illustrations/centralizationPurple.svg",
   Openess: "/illustrations/githubPurple.svg",
   Candor: "/illustrations/candorPurple.svg",
   Inclusive: "/illustrations/inclusivePurple.svg",
