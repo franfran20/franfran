@@ -1,32 +1,22 @@
-import Head from "next/head";
-import styles from "@/styles/Home.module.css";
-import { Hero } from "@/components/home/Hero";
-import { WhoAreTheRegenRangers } from "@/components/home/WhoAreTheRegenRangers";
-import { SafeGuardingWeb3 } from "@/components/home/SafeGuardingWeb3";
-import { JoinCommunity } from "@/components/home/JoinCommunity";
-import { Footer } from "@/components/Footer";
+import { Hero } from "@/components/Hero";
+import { WhoAreTheRegenRangers } from "@/components/WhoAreTheRegenRangers";
+import { WhatIsOdc } from "@/components/WhatIsOdc";
+import { AIPoweredDocs } from "@/components/AIPoweredDocs";
+import { Benefits } from "@/components/Benefits";
 
 export default function Home() {
   return (
     <>
-      <Head>
-        <title>Regen Rangers | Home</title>
-        <meta
-          name="Regen Rangers Home Page"
-          content="Landing Page For Regen Rangers Website"
-        />
-        <meta name="viewport" content="width=device-width, initial-scale=1" />
-        <link rel="icon" href="/favicon.png" />
-      </Head>
-
       <main>
         <Hero />
 
+        <WhatIsOdc />
+
+        <AIPoweredDocs />
+
         <WhoAreTheRegenRangers />
 
-        <JoinCommunity />
-
-        <SafeGuardingWeb3 />
+        <Benefits />
       </main>
     </>
   );
