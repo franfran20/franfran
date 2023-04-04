@@ -11,13 +11,11 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
-
       - uses: actions/setup-node@v3
         with:
           # update the Node version to meet your needs
           node-version: 16
           cache: npm
-
       - name: Install dependencies
       - name: Build
         run: |
@@ -27,7 +25,6 @@ jobs:
           touch out/.nojekyll
 
       - name: Deploy
-        # configure an external GitHub Pages deploy workflow here
         uses: JamesIves/github-pages-deploy-action@4.4.0
         with:
           branch: gh-pages
