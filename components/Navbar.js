@@ -2,6 +2,7 @@ import { useState } from "react";
 import styles from "../styles/components/Navbar.module.css";
 import { Sidebar } from "./Sidebar";
 import { SOCIAL_LINKS, NAV_LINKS } from "@/utils/utils";
+import Link from "next/link";
 
 export const Navbar = () => {
   const [openMenu, setOpenMenu] = useState(false);
@@ -10,14 +11,14 @@ export const Navbar = () => {
   return (
     <>
       <nav className={styles.navbar}>
-        <a href="/">
+        <Link href="/">
           <img
             src="/Navbar/logo.svg"
             height="500"
             width="500"
             className={styles.logo}
           />
-        </a>
+        </Link>
 
         <div
           className={styles.docs}

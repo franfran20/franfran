@@ -1,5 +1,6 @@
 import styles from "../styles/components/WhoAreTheRegenRangers.module.css";
 import { motion } from "framer-motion";
+import Link from "next/link";
 
 export const WhoAreTheRegenRangers = () => {
   return (
@@ -60,7 +61,7 @@ export const WhoAreTheRegenRangers = () => {
             layer.
           </p>
 
-          <a href="/">Legos &gt;</a>
+          <Link href="/">Legos &gt;</Link>
         </motion.div>
       }
     </div>
