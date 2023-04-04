@@ -1,7 +1,7 @@
 import { Hero } from "@/components/Hero";
 import { WhoAreTheRegenRangers } from "@/components/WhoAreTheRegenRangers";
 import { WhatIsOdc } from "@/components/WhatIsOdc";
-import { AIPoweredDocs } from "@/components/AIPoweredDocs";
+import { TrainedModelDocs } from "@/components/TrainedModelDocs";
 import { Benefits } from "@/components/Benefits";
 
 export default function Home() {
@@ -12,7 +12,7 @@ export default function Home() {
 
         <WhatIsOdc />
 
-        <AIPoweredDocs />
+        <TrainedModelDocs />
 
         <WhoAreTheRegenRangers />
 

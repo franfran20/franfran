@@ -3,7 +3,7 @@ import Markprompt from "./Markprompt";
 import { motion } from "framer-motion";
 import { NAV_LINKS } from "@/utils/utils";
 
-export const AIPoweredDocs = () => {
+export const TrainedModelDocs = () => {
   const textVariants = {
     visible: {
       opacity: 1,
@@ -24,12 +24,14 @@ export const AIPoweredDocs = () => {
           variants={textVariants}
         >
           <h3>Need Quick Clarity?</h3>
-          <h4>Ask Our AI-Powered Docs</h4>
+          <h4>Ask Our ChatGPT trained model</h4>
           <p>
-            You can ask any question you have regarding the OpenData Community
-            documentation right here and receive accurate and helpful answers in
-            real-time. Say goodbye to the frustration of sifting through endless
-            pages of documentation.
+            You can ask any question you have regarding the OpenData Community.
+            We’ve trained it on all of our written materials so far. So ask
+            right here and receive accurate and helpful answers in real-time.
+            Say goodbye to the frustration of sifting through endless pages of
+            documentation. Ask it how to write a Lego - or how to get involved?
+            Or even why we ODC exist.
           </p>
 
           <a href={NAV_LINKS["DOCS"]} target="_blank">
