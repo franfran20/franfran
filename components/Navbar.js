@@ -11,14 +11,12 @@ export const Navbar = () => {
   return (
     <>
       <nav className={styles.navbar}>
-        <Link href="/">
-          <img
-            src="/Navbar/logo.svg"
-            height="500"
-            width="500"
-            className={styles.logo}
-          />
-        </Link>
+        <img
+          src="/Navbar/logo.svg"
+          height="500"
+          width="500"
+          className={styles.logo}
+        />
 
         <div
           className={styles.docs}

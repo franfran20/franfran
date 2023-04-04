@@ -2,11 +2,14 @@
   "name": "odc",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://franfran20.github.io/franfran20.github.io",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint"
+    "lint": "next lint",
+    "predeploy": "yarn build",
+    "deploy": "gh-pages -d build"
   },
   "dependencies": {
     "@tailwindcss/typography": "^0.5.9",

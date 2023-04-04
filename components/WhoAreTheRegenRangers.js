@@ -1,6 +1,7 @@
 import styles from "../styles/components/WhoAreTheRegenRangers.module.css";
 import { motion } from "framer-motion";
 import Link from "next/link";
+import { NAV_LINKS } from "@/utils/utils";
 
 export const WhoAreTheRegenRangers = () => {
   return (
@@ -61,7 +62,7 @@ export const WhoAreTheRegenRangers = () => {
             layer.
           </p>
 
-          <Link href="/">Legos &gt;</Link>
+          <a href={NAV_LINKS["LEGOS"]}>Legos &gt;</a>
         </motion.div>
       }
     </div>
